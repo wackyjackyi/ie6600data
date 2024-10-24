@@ -1,0 +1,100 @@
+IPEDS Race,Year,Completions,share
+White,2012,8101,0.438460706
+White,2013,8691,0.437261018
+White,2014,9981,0.434883012
+White,2015,11625,0.410777385
+White,2016,12896,0.364943261
+White,2017,14479,0.346445577
+White,2018,16009,0.361279112
+White,2019,17655,0.368534213
+White,2020,19021,0.354063512
+White,2021,20504,0.344228994
+White,2022,21275,0.350893107
+Non-resident Alien,2012,4960,0.268456376
+Non-resident Alien,2013,5298,0.266552626
+Non-resident Alien,2014,5947,0.25911725
+Non-resident Alien,2015,8489,0.299964664
+Non-resident Alien,2016,11907,0.336955599
+Non-resident Alien,2017,14466,0.34613452
+Non-resident Alien,2018,13370,0.301724138
+Non-resident Alien,2019,12905,0.269381706
+Non-resident Alien,2020,14592,0.271620565
+Non-resident Alien,2021,16315,0.273902459
+Non-resident Alien,2022,13715,0.226204417
+Asian,2012,2256,0.122104352
+Asian,2013,2339,0.117679614
+Asian,2014,2904,0.126530434
+Asian,2015,3568,0.126077739
+Asian,2016,4961,0.140391091
+Asian,2017,6202,0.148398057
+Asian,2018,7364,0.166185232
+Asian,2019,8423,0.175823488
+Asian,2020,9857,0.183481628
+Asian,2021,11017,0.184957609
+Asian,2022,12665,0.208886543
+Hispanic or Latino,2012,994,0.053799524
+Hispanic or Latino,2013,1252,0.062990541
+Hispanic or Latino,2014,1507,0.065661627
+Hispanic or Latino,2015,1816,0.064169611
+Hispanic or Latino,2016,2244,0.063502844
+Hispanic or Latino,2017,2886,0.069054626
+Hispanic or Latino,2018,3303,0.074539628
+Hispanic or Latino,2019,3911,0.081639043
+Hispanic or Latino,2020,4561,0.084900041
+Hispanic or Latino,2021,5244,0.088038278
+Hispanic or Latino,2022,5751,0.094852468
+Black or African American,2012,815,0.044111279
+Black or African American,2013,859,0.043217951
+Black or African American,2014,914,0.039823973
+Black or African American,2015,1006,0.035547703
+Black or African American,2016,1142,0.032317401
+Black or African American,2017,1311,0.03136889
+Black or African American,2018,1580,0.035656256
+Black or African American,2019,1823,0.038053688
+Black or African American,2020,2007,0.037358996
+Black or African American,2021,2404,0.040359271
+Black or African American,2022,2639,0.043525589
+Two or More Races,2012,235,0.012719203
+Two or More Races,2013,331,0.01665325
+Two or More Races,2014,498,0.021698401
+Two or More Races,2015,627,0.022155477
+Two or More Races,2016,902,0.025525653
+Two or More Races,2017,1088,0.026033068
+Two or More Races,2018,1265,0.028547572
+Two or More Races,2019,1552,0.032396777
+Two or More Races,2020,1765,0.032854324
+Two or More Races,2021,2021,0.033929321
+Two or More Races,2022,2207,0.036400521
+Unknown,2012,1001,0.054178394
+Unknown,2013,1000,0.050311934
+Unknown,2014,1081,0.047100344
+Unknown,2015,1050,0.037102473
+Unknown,2016,1171,0.033138071
+Unknown,2017,1244,0.02976575
+Unknown,2018,1291,0.02913432
+Unknown,2019,1488,0.031060827
+Unknown,2020,1760,0.032761252
+Unknown,2021,1891,0.031746831
+Unknown,2022,2202,0.036318055
+American Indian or Alaska Native,2012,72,0.003896947
+American Indian or Alaska Native,2013,66,0.003320588
+American Indian or Alaska Native,2014,66,0.002875692
+American Indian or Alaska Native,2015,78,0.002756184
+American Indian or Alaska Native,2016,60,0.001697937
+American Indian or Alaska Native,2017,63,0.001507429
+American Indian or Alaska Native,2018,77,0.001737678
+American Indian or Alaska Native,2019,71,0.001482069
+American Indian or Alaska Native,2020,89,0.001656677
+American Indian or Alaska Native,2021,101,0.001695627
+American Indian or Alaska Native,2022,102,0.001682308
+Native Hawaiian or Other Pacific Islanders,2012,42,0.002273219
+Native Hawaiian or Other Pacific Islanders,2013,40,0.002012477
+Native Hawaiian or Other Pacific Islanders,2014,53,0.002309268
+Native Hawaiian or Other Pacific Islanders,2015,41,0.001448763
+Native Hawaiian or Other Pacific Islanders,2016,54,0.001528143
+Native Hawaiian or Other Pacific Islanders,2017,54,0.001292082
+Native Hawaiian or Other Pacific Islanders,2018,53,0.001196064
+Native Hawaiian or Other Pacific Islanders,2019,78,0.001628189
+Native Hawaiian or Other Pacific Islanders,2020,70,0.001303004
+Native Hawaiian or Other Pacific Islanders,2021,68,0.00114161
+Native Hawaiian or Other Pacific Islanders,2022,75,0.001236991
