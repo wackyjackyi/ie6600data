@@ -1,0 +1,1707 @@
+Year,Industry Sector,Industry Group,Average Wage,Total Population,Share
+2022,"Agriculture, Forestry, Fishing and Hunting, and Mining",Farming,15256.5779,1104,0.050724082
+2022,"Agriculture, Forestry, Fishing and Hunting, and Mining",Animal production & aquaculture,26363.97982,446,0.020491794
+2022,"Agriculture, Forestry, Fishing and Hunting, and Mining","Fishing, hunting & trapping",44274.79452,73,0.003354038
+2022,"Agriculture, Forestry, Fishing and Hunting, and Mining",Oil & gas extraction,20846.21429,28,0.00128648
+2022,"Agriculture, Forestry, Fishing and Hunting, and Mining",Metal ore mining,25075.74138,58,0.002664852
+2022,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for mining,27467.43617,94,0.004318898
+2022,Construction,Construction,38473.58322,751,0.03450524
+2022,Manufacturing,Sugar & confectionery products,37006.77255,510,0.02343232
+2022,Manufacturing,Fruit & vegetable preserving & specialty food manufacturing,29303.92945,1134,0.052102453
+2022,Manufacturing,Dairy product manufacturing,42722.77778,117,0.00537565
+2022,Manufacturing,Animal slaughtering & processing,31158.26118,1386,0.063680776
+2022,Manufacturing,Retail bakeries,20372.57544,2207,0.101402218
+2022,Manufacturing,"Bakeries & tortilla manufacturing, except retail bakeries",27347.01792,1730,0.079486106
+2022,Manufacturing,"Animal food, grain & oilseed milling",44598.58271,266,0.012221563
+2022,Manufacturing,"Seafood & other miscellaneous foods, n.e.c. ",34525.3456,1033,0.047461935
+2022,Manufacturing,"Not specified food industries, manufacturing",23083.46923,260,0.011945889
+2022,Manufacturing,Beverage manufacturing,28043.57741,1505,0.069148318
+2022,Manufacturing,"Fiber, yarn, & thread mills",2501.533333,30,0.001378372
+2022,Manufacturing,"Cut and sew, and apparel accessories and other apparel manufacturing",56834.03333,60,0.002756744
+2022,Manufacturing,"Veneer, plywood, & engineered wood products ",62705.91667,12,0.000551349
+2022,Manufacturing,Miscellaneous wood products,2397.32,25,0.001148643
+2022,Manufacturing,"Pulp, paper, & paperboard mills ",10644,30,0.001378372
+2022,Manufacturing,Printing & related support activities,32756.30645,62,0.002848635
+2022,Manufacturing,Petroleum refining,29609.26471,34,0.001562155
+2022,Manufacturing,"Resin, synthetic rubber, & fibers & filaments manufacturing   ",28424.91667,36,0.001654046
+2022,Manufacturing,Pharmaceutical & medicine manufacturing,41062.82486,177,0.008132394
+2022,Manufacturing,Industrial & miscellaneous chemicals,24871.8,30,0.001378372
+2022,Manufacturing,Plastics product manufacturing,27831.53846,13,0.000597294
+2022,Manufacturing,"Rubber products, except tires, manufacturing ",12507.71429,14,0.00064324
+2022,Manufacturing,Clay building material & refractories manufacturing,115986.5556,9,0.000413512
+2022,Manufacturing,Glass & glass product manufacturing,25496.16667,24,0.001102697
+2022,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing,69592,13,0.000597294
+2022,Manufacturing,Aluminum production & processing,24937.04412,68,0.003124309
+2022,Manufacturing,Iron & steel mills & steel product manufacturing,26792.66667,3,0.000137837
+2022,Manufacturing,"Structural metals, & boiler, tank, & shipping container manufacturing ",136813,5,0.000229729
+2022,Manufacturing,Miscellaneous fabricated metal products manufacturing,28996.65517,29,0.001332426
+2022,Manufacturing,"Construction, & mining & oil & gas field machinery manufacturing ",67750.21739,23,0.001056752
+2022,Manufacturing,Metalworking machinery manufacturing,3562.444444,18,0.000827023
+2022,Manufacturing,"Machinery manufacturing, n.e.c. or not specified",54103.08434,83,0.003813495
+2022,Manufacturing,Computer & peripheral equipment manufacturing,57944.34783,46,0.002113503
+2022,Manufacturing,"Communications, & audio & video equipment manufacturing",40036.42857,49,0.002251341
+2022,Manufacturing,"Electronic component & product manufacturing, n.e.c. ",28767.94444,162,0.007443208
+2022,Manufacturing,Aircraft & parts manufacturing,20898.28877,187,0.008591851
+2022,Manufacturing,Aerospace products & parts manufacturing,6253.863014,73,0.003354038
+2022,Manufacturing,Ship & boat building,20595.32353,34,0.001562155
+2022,Manufacturing,Motor vehicles & motor vehicle equipment manufacturing,20488.11719,128,0.005881053
+2022,Manufacturing,Furniture & related product manufacturing,35341.51351,74,0.003399984
+2022,Manufacturing,Medical equipment & supplies manufacturing,48001.16667,24,0.001102697
+2022,Manufacturing,"Sporting & athletic goods, & doll, toy & game manufacturing  ",22576.47222,72,0.003308092
+2022,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ",42770.46061,165,0.007581045
+2022,Manufacturing,Not specified manufacturing industries,21246.70739,663,0.030462016
+2022,Wholesale Trade,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,11598.66667,6,0.000275674
+2022,Wholesale Trade,Professional & commercial equipment & supplies merchant wholesalers,28312.43478,46,0.002113503
+2022,Wholesale Trade,Grocery & related product merchant wholesalers,27307.94022,3814,0.175237
+2022,Wholesale Trade,Farm product raw material merchant wholesalers,8013.692308,13,0.000597294
+2022,Wholesale Trade,Petroleum & petroleum products merchant wholesalers,32616.09639,83,0.003813495
+2022,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers,23370.86667,30,0.001378372
+2022,Wholesale Trade,"Drugs, sundries, & chemical & allied products merchant  wholesalers ",4871.411765,17,0.000781077
+2022,Wholesale Trade,Wholesale electronic markets & agents & brokers,28725.83333,42,0.00192972
+2022,Wholesale Trade,Not specified wholesale trade,21857.19836,610,0.028026893
+2022,Retail Trade,Car Dealers,25467.81081,222,0.010199951
+2022,Retail Trade,Other motor vehicle dealers,35837.53191,47,0.002159449
+2022,Retail Trade,"Automotive parts, accessories, & tire stores  ",31602.79487,117,0.00537565
+2022,Retail Trade,Furniture & home furnishings stores,26120.80241,582,0.026740413
+2022,Retail Trade,Electronics stores,41665.30657,137,0.006294564
+2022,Retail Trade,Hardware stores,25374.31034,58,0.002664852
+2022,Retail Trade,Building material & supplies dealers,19942.95,40,0.001837829
+2022,Retail Trade,Lawn & garden equipment & supplies stores,14850.56364,55,0.002527015
+2022,Retail Trade,Supermarkets and Other Grocery (except Convenience) Stores,24600.22071,43745,2.00989579
+2022,Retail Trade,Convenience Stores,18959.76367,13731,0.630880766
+2022,Retail Trade,Specialty food stores,22128.45979,5024,0.230831328
+2022,Retail Trade,"Beer, wine, & liquor stores ",20878.11834,169,0.007764828
+2022,Retail Trade,Pharmacies & drug stores,20254.19167,240,0.011026974
+2022,Retail Trade,"Health & personal care, except drug, stores ",21327.03704,54,0.002481069
+2022,Retail Trade,Gasoline stations,18511.65795,20462,0.940141449
+2022,Retail Trade,Clothing stores,22416.11003,309,0.014197229
+2022,Retail Trade,"Jewelry, luggage, & leather goods stores ",19259.40909,22,0.001010806
+2022,Retail Trade,"Sewing, needlework, & piece goods stores ",23155.84211,38,0.001745938
+2022,Retail Trade,"Sporting goods, and hobby & toy stores ",15400.46087,230,0.010567517
+2022,Retail Trade,Book stores & news dealers,15686.29412,17,0.000781077
+2022,Retail Trade,Department stores,22259.81682,333,0.015299927
+2022,Retail Trade,"General merchandise stores, including warehouse clubs and supercenters",23562.1692,9391,0.431476314
+2022,Retail Trade,Retail florists,41692.4375,32,0.001470263
+2022,Retail Trade,"Gift, novelty, & souvenir shops",21316.05714,35,0.0016081
+2022,Retail Trade,Used merchandise stores,22273.76429,140,0.006432402
+2022,Retail Trade,Miscellaneous retail stores,23513.38934,244,0.011210757
+2022,Retail Trade,Electronic shopping and mail-order houses,19239.83761,117,0.00537565
+2022,Retail Trade,Vending machine operators,24742.91713,181,0.008316176
+2022,Retail Trade,Fuel dealers,8819.165049,103,0.00473241
+2022,Retail Trade,Other direct selling establishments,14821.69643,224,0.010291843
+2022,Retail Trade,Not specified retail trade,26570.94742,2834,0.130210188
+2022,"Transportation & Warehousing, and Utilities","Electric power generation, transmission & distribution",89060.90476,21,0.00096486
+2022,"Transportation & Warehousing, and Utilities",Air transportation,37892.15823,158,0.007259425
+2022,"Transportation & Warehousing, and Utilities",Rail transportation,54518.25769,260,0.011945889
+2022,"Transportation & Warehousing, and Utilities",Water transportation,54916.42398,934,0.042913308
+2022,"Transportation & Warehousing, and Utilities",Truck transportation,34998.65405,185,0.008499959
+2022,"Transportation & Warehousing, and Utilities",Taxi & limousine service,45604.33333,12,0.000551349
+2022,"Transportation & Warehousing, and Utilities",Bus service & urban transit,19737.58182,55,0.002527015
+2022,"Transportation & Warehousing, and Utilities",Scenic & sightseeing transportation,21223.51389,360,0.016540461
+2022,"Transportation & Warehousing, and Utilities",Services incidental to transportation,24761.23937,1270,0.058351072
+2022,"Transportation & Warehousing, and Utilities",Postal Service,6253.866667,15,0.000689186
+2022,"Transportation & Warehousing, and Utilities",Couriers & messengers,30787.39891,549,0.025224204
+2022,"Transportation & Warehousing, and Utilities",Warehousing & storage,24951.608,125,0.005743216
+2022,Information,Newspaper publishers,24953.69048,42,0.00192972
+2022,Information,"Periodical, book, & directory publishers",38218.69048,42,0.00192972
+2022,Information,Motion pictures & video industries,15506.66358,2271,0.104342744
+2022,Information,Sound recording industries,54725.16667,24,0.001102697
+2022,Information,Broadcasting (except internet),45604.31429,35,0.0016081
+2022,Information,Wired telecommunications carriers,52549.86111,36,0.001654046
+2022,Information,"Telecommunications, except wired telecommunications carriers ",17101.61111,18,0.000827023
+2022,Information,Libraries & archives,15634.67857,28,0.00128648
+2022,Information,"Internet publishing, broadcasting & web search portals",48153.71579,285,0.013094532
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing","Savings institutions, including credit unions ",9006.856287,167,0.007672936
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing",Nondepository credit & related activities,11598.66667,15,0.000689186
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing",Insurance carriers,29864.30183,328,0.015070198
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing",Banking & related activities,27672.80054,371,0.017045864
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing","Securities, commodities, funds, trusts & other financial investments",18167.87097,124,0.00569727
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing","Real estate property managers, offices of real estate appraisers, and other activities related to real estate",29973.71676,173,0.007948611
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing","Lessors of real estate, and offices of real estate agents and brokers",26397.1024,2500,0.114864315
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing",Automotive equipment rental & leasing,36063.96429,56,0.002572961
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing",Other consumer goods rental,29300.77863,131,0.00601889
+2022,"Finance & Insurance, and Real Estate, Rental & Leasing","Commercial, industrial & other intangible assets rental & leasing",12541.19355,62,0.002848635
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Legal services,46904,17,0.000781077
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services","Accounting, tax preparation, bookkeeping & payroll services",64164.5514,107,0.004916193
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services","Architectural, engineering & related services",59285.61905,42,0.00192972
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Specialized design services,39409.45455,22,0.001010806
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Computer Systems Design,39324.67331,502,0.023064755
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services","Management, scientific & technical consulting services",22599.97037,270,0.012405346
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Scientific research & development services,38845.13825,217,0.009970223
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services","Advertising, public relations & related services",33760.1049,286,0.013140478
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services","Other professional, scientific & technical services ",21209.90374,187,0.008591851
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Management of companies & enterprises,38701.47244,254,0.011670214
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Employment services,20329.83161,2411,0.110775146
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Business support services,17635.71963,107,0.004916193
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Travel arrangements & reservation services,29056.89808,1040,0.047783555
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Investigation & security services,18117.07407,27,0.001240535
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Landscaping services,20980.27119,118,0.005421596
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Services to buildings & dwellings (except cleaning during construction & immediately after construction),22055.6911,191,0.008775634
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Other administrative & other support services,20007.07692,104,0.004778356
+2022,"Professional, Scientific & Management, and Administrative & Waste Management Services",Waste management & remediation services,35347.94203,69,0.003170255
+2022,"Educational Services, Health Care & Social Assistance",Elementary & secondary schools,20524.3761,135703,6.234972876
+2022,"Educational Services, Health Care & Social Assistance","Colleges, universities & professional schools, including junior colleges",23328.39031,18977,0.871912045
+2022,"Educational Services, Health Care & Social Assistance","Business, technical & trade schools and training",24454.75573,524,0.024075561
+2022,"Educational Services, Health Care & Social Assistance",Other schools & instruction and educational support services,25489.57975,395,0.018148562
+2022,"Educational Services, Health Care & Social Assistance",Offices of physicians,29448.84991,573,0.026326901
+2022,"Educational Services, Health Care & Social Assistance",Offices of dentists,25155.02381,42,0.00192972
+2022,"Educational Services, Health Care & Social Assistance",Offices of optometrists,8031.857143,63,0.002894581
+2022,"Educational Services, Health Care & Social Assistance",Offices of other health practitioners,29757.97952,293,0.013462098
+2022,"Educational Services, Health Care & Social Assistance",Outpatient care centers,27186.77288,2721,0.125018321
+2022,"Educational Services, Health Care & Social Assistance",Home health care services,19830.1052,3479,0.159845181
+2022,"Educational Services, Health Care & Social Assistance",Other health care services,31345.50291,2402,0.110361634
+2022,"Educational Services, Health Care & Social Assistance",Psychiatric and substance abuse hospitals,32979.95423,721,0.033126869
+2022,"Educational Services, Health Care & Social Assistance","General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",33232.51168,35004,1.608284198
+2022,"Educational Services, Health Care & Social Assistance",Nursing Care Facilities,27803.49918,47462,2.180676055
+2022,"Educational Services, Health Care & Social Assistance","Residential care facilities, except skilled nursing facilities",28154.34293,39180,1.800153551
+2022,"Educational Services, Health Care & Social Assistance",Individual & family services,21706.43821,8480,0.389619758
+2022,"Educational Services, Health Care & Social Assistance","Community food & housing, & emergency services ",22592.44979,3386,0.155572229
+2022,"Educational Services, Health Care & Social Assistance",Vocational rehabilitation services,20220.88167,693,0.031840388
+2022,"Educational Services, Health Care & Social Assistance",Child day care services,21768.78873,18905,0.868603953
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services",Performing arts companies,40090.31915,47,0.002159449
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services",Spectator sports,17561.10563,710,0.032621466
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services","Independent artists, writers, and performers",19166.86667,90,0.004135115
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services","Promoters of performing arts, sports, and similar events, agents and managers for artists, athletes, entertainers, and other public figures",19529.97874,1270,0.058351072
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services","Museums, art galleries, historical sites, & similar institutions",15326.42615,1415,0.065013203
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services",Bowling centers,12153.26317,3625,0.166553257
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services",Amusement & Recreation,27674.11754,39850,1.830937187
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services",Traveler accommodation,30677.43671,39974,1.836634457
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services",Recreational vehicle parks & camps and rooming & boarding houses,16145.00391,2303,0.105813007
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services","Drinking places, alcoholic beverages ",20573.06827,10341,0.475124754
+2022,"Arts, Entertainment & Recreation and Accommodation & Food Services",Restaurants & Food Services,21115.31778,1589618,73.03615331
+2022,"Other Services, Except Public Administration",Car washes,16292.74194,62,0.002848635
+2022,"Other Services, Except Public Administration",Automotive repair & maintenance,15331.84043,94,0.004318898
+2022,"Other Services, Except Public Administration",Beauty salons,25041.86905,84,0.003859441
+2022,"Other Services, Except Public Administration",Nail salons & other personal care services,34279.44,50,0.002297286
+2022,"Other Services, Except Public Administration","Funeral homes, & cemeteries & crematories ",5926.961538,52,0.002389178
+2022,"Other Services, Except Public Administration",Drycleaning & laundry services,16691.57732,97,0.004456735
+2022,"Other Services, Except Public Administration",Other personal services,32465.69231,312,0.014335067
+2022,"Other Services, Except Public Administration",Religious organizations,23614.56209,3624,0.166507312
+2022,"Other Services, Except Public Administration",Labor unions,11843.72222,18,0.000827023
+2022,"Other Services, Except Public Administration","Business, professional, political, & similar organizations",31731.87591,137,0.006294564
+2022,"Other Services, Except Public Administration","Civic, social, advocacy organizations, & grantmaking & giving services",21942.40055,4716,0.216680045
+2022,"Other Services, Except Public Administration",Private households,38993.75655,4313,0.198163917
+2022,Public Administration,Public finance activities,4263.75,4,0.000183783
+2022,Public Administration,Executive offices & legislative bodies,27741.4688,1939,0.089088763
+2022,Public Administration,Administration of human resource programs,31062.59938,1615,0.074202348
+2022,Public Administration,National security & international affairs,29025.59558,1993,0.091569832
+2022,Public Administration,Administration of environmental quality & housing programs,22079.13889,144,0.006616185
+2022,Public Administration,Administration of economic programs & space research,45039.42857,42,0.00192972
+2022,Public Administration,"Justice, public order, & safety activities ",40764.84139,4697,0.215807076
+2022,Active Duty Military,U. S. Army,28155.77384,3104,0.142615534
+2022,Active Duty Military,U. S. Air Force,33174.99492,591,0.027153924
+2022,Active Duty Military,U. S. Navy,34491.15821,3388,0.15566412
+2022,Active Duty Military,U. S. Marines,26706.97403,1078,0.049529493
+2022,Active Duty Military,U. S Coast Guard,45371.79605,456,0.020951251
+2022,Active Duty Military,U. S. Armed Forces: Branch Not Specified,15148.96354,192,0.008821579
+2022,Active Duty Military,Military Reserves or National Guard,4733.923077,39,0.001791883
+2021,"Agriculture, Forestry, Fishing and Hunting, and Mining",Farming,17106.5252,754,0.03388595
+2021,"Agriculture, Forestry, Fishing and Hunting, and Mining",Animal production & aquaculture,22432.14625,547,0.024583043
+2021,"Agriculture, Forestry, Fishing and Hunting, and Mining",Logging,46940.5,4,0.000179766
+2021,"Agriculture, Forestry, Fishing and Hunting, and Mining","Fishing, hunting & trapping",43351.30357,56,0.002516728
+2021,"Agriculture, Forestry, Fishing and Hunting, and Mining",Oil & gas extraction,20117.325,40,0.001797663
+2021,"Agriculture, Forestry, Fishing and Hunting, and Mining",Metal ore mining,23215.41379,58,0.002606612
+2021,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for mining,27705.2562,121,0.005437931
+2021,Construction,Construction,36413.43844,666,0.029931091
+2021,Manufacturing,Sugar & confectionery products,35978.61377,668,0.030020974
+2021,Manufacturing,Fruit & vegetable preserving & specialty food manufacturing,25305.2684,1114,0.050064918
+2021,Manufacturing,Dairy product manufacturing,41151.53077,130,0.005842405
+2021,Manufacturing,Animal slaughtering & processing,28868.27591,1399,0.062873268
+2021,Manufacturing,Retail bakeries,17425.62442,2375,0.106736248
+2021,Manufacturing,"Bakeries & tortilla manufacturing, except retail bakeries",25326.50157,1906,0.085658648
+2021,Manufacturing,"Animal food, grain & oilseed milling",37897.07645,327,0.014695896
+2021,Manufacturing,"Seafood & other miscellaneous foods, n.e.c. ",35395.61605,1159,0.052087289
+2021,Manufacturing,"Not specified food industries, manufacturing",19861.11143,350,0.015729552
+2021,Manufacturing,Beverage manufacturing,32454.08261,1259,0.056581447
+2021,Manufacturing,"Cut and sew, and apparel accessories and other apparel manufacturing",14276.54054,37,0.001662838
+2021,Manufacturing,"Veneer, plywood, & engineered wood products ",57922.16667,12,0.000539299
+2021,Manufacturing,"Pulp, paper, & paperboard mills ",9113.21978,91,0.004089684
+2021,Manufacturing,Printing & related support activities,29970.98438,64,0.002876261
+2021,Manufacturing,Petroleum refining,27327.33333,33,0.001483072
+2021,Manufacturing,"Resin, synthetic rubber, & fibers & filaments manufacturing   ",26234.22642,53,0.002381904
+2021,Manufacturing,Pharmaceutical & medicine manufacturing,45160.15,120,0.005392989
+2021,Manufacturing,Industrial & miscellaneous chemicals,22954.93333,30,0.001348247
+2021,Manufacturing,Plastics product manufacturing,25748.16667,12,0.000539299
+2021,Manufacturing,Clay building material & refractories manufacturing,107051.2,10,0.000449416
+2021,Manufacturing,Glass & glass product manufacturing,32115.33333,9,0.000404474
+2021,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing,64230.75,12,0.000539299
+2021,Manufacturing,Aluminum production & processing,23070.38462,65,0.002921203
+2021,Manufacturing,Iron & steel mills & steel product manufacturing,24748.66667,3,0.000134825
+2021,Manufacturing,"Structural metals, & boiler, tank, & shipping container manufacturing ",126375.8,5,0.000224708
+2021,Manufacturing,Miscellaneous fabricated metal products manufacturing,26762.78571,28,0.001258364
+2021,Manufacturing,Metalworking machinery manufacturing,3295.764706,17,0.000764007
+2021,Manufacturing,"Machinery manufacturing, n.e.c. or not specified",51141.87342,79,0.003550385
+2021,Manufacturing,Computer & peripheral equipment manufacturing,48076.47826,92,0.004134625
+2021,Manufacturing,"Communications, & audio & video equipment manufacturing",37901.36667,30,0.001348247
+2021,Manufacturing,"Electronic component & product manufacturing, n.e.c. ",28637.98052,154,0.006921003
+2021,Manufacturing,Aircraft & parts manufacturing,20202.11675,197,0.008853491
+2021,Manufacturing,Ship & boat building,19053.66667,27,0.001213423
+2021,Manufacturing,Motor vehicles & motor vehicle equipment manufacturing,20255.5,90,0.004044742
+2021,Manufacturing,Furniture & related product manufacturing,33884.84483,58,0.002606612
+2021,Manufacturing,Medical equipment & supplies manufacturing,37467.91667,12,0.000539299
+2021,Manufacturing,"Sporting & athletic goods, & doll, toy & game manufacturing  ",22767.67262,168,0.007550185
+2021,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ",32228.47934,121,0.005437931
+2021,Manufacturing,Not specified manufacturing industries,20740.11056,606,0.027234596
+2021,Wholesale Trade,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,10705.14286,7,0.000314591
+2021,Wholesale Trade,Professional & commercial equipment & supplies merchant wholesalers,32115.34483,29,0.001303306
+2021,Wholesale Trade,Grocery & related product merchant wholesalers,25231.24483,3770,0.16942975
+2021,Wholesale Trade,Farm product raw material merchant wholesalers,6367.7,10,0.000449416
+2021,Wholesale Trade,Petroleum & petroleum products merchant wholesalers,28359.21538,130,0.005842405
+2021,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers,19897.48485,33,0.001483072
+2021,Wholesale Trade,"Drugs, sundries, & chemical & allied products merchant  wholesalers ",4496.125,16,0.000719065
+2021,Wholesale Trade,Wholesale electronic markets & agents & brokers,24280.22807,57,0.00256167
+2021,Wholesale Trade,Not specified wholesale trade,21458.62942,537,0.024133627
+2021,Retail Trade,Car Dealers,20672.17453,212,0.009527615
+2021,Retail Trade,Other motor vehicle dealers,32475.61702,47,0.002112254
+2021,Retail Trade,"Automotive parts, accessories, & tire stores  ",28090.96429,112,0.005033457
+2021,Retail Trade,Furniture & home furnishings stores,22974.43892,704,0.031638871
+2021,Retail Trade,Electronics stores,35568.43939,66,0.002966144
+2021,Retail Trade,Hardware stores,23743.49091,55,0.002471787
+2021,Retail Trade,Building material & supplies dealers,18054.69231,39,0.001752722
+2021,Retail Trade,Lawn & garden equipment & supplies stores,12739,2,8.98832E-05
+2021,Retail Trade,Supermarkets and Other Grocery (except Convenience) Stores,22311.36837,46345,2.082817441
+2021,Retail Trade,Convenience Stores,17657.74037,12144,0.545770526
+2021,Retail Trade,Specialty food stores,21104.67259,5626,0.252841319
+2021,Retail Trade,"Beer, wine, & liquor stores ",17951.58088,136,0.006112055
+2021,Retail Trade,Pharmacies & drug stores,16898.14085,284,0.012763408
+2021,Retail Trade,"Health & personal care, except drug, stores ",16524.22222,45,0.002022371
+2021,Retail Trade,Gasoline stations,16483.54188,19460,0.874563112
+2021,Retail Trade,Clothing stores,22633.88116,345,0.015504844
+2021,Retail Trade,Shoe stores,972.34375,32,0.001438131
+2021,Retail Trade,"Jewelry, luggage, & leather goods stores ",17817.73684,19,0.00085389
+2021,Retail Trade,"Sewing, needlework, & piece goods stores ",21422.51064,47,0.002112254
+2021,Retail Trade,"Sporting goods, and hobby & toy stores ",9902.243902,164,0.007370419
+2021,Retail Trade,Book stores & news dealers,14477.47059,17,0.000764007
+2021,Retail Trade,Department stores,15154.75602,664,0.029841208
+2021,Retail Trade,"General merchandise stores, including warehouse clubs and supercenters",21077.2137,8236,0.370138838
+2021,Retail Trade,"Gift, novelty, & souvenir shops",23487.88462,26,0.001168481
+2021,Retail Trade,Used merchandise stores,19420.20755,159,0.007145711
+2021,Retail Trade,Miscellaneous retail stores,16967.97628,253,0.011370219
+2021,Retail Trade,Electronic shopping and mail-order houses,9953.977778,45,0.002022371
+2021,Retail Trade,Vending machine operators,22727.68649,185,0.008314192
+2021,Retail Trade,Fuel dealers,21560.91667,12,0.000539299
+2021,Retail Trade,Other direct selling establishments,10239.21538,130,0.005842405
+2021,Retail Trade,Not specified retail trade,35213.92883,2740,0.123139924
+2021,"Transportation & Warehousing, and Utilities","Electric power generation, transmission & distribution",82394.2381,21,0.000943773
+2021,"Transportation & Warehousing, and Utilities",Air transportation,21389.32843,204,0.009168082
+2021,"Transportation & Warehousing, and Utilities",Rail transportation,51338.23643,258,0.011594927
+2021,"Transportation & Warehousing, and Utilities",Water transportation,48216.57668,1089,0.048941379
+2021,"Transportation & Warehousing, and Utilities",Truck transportation,39605.35616,146,0.00656147
+2021,"Transportation & Warehousing, and Utilities",Taxi & limousine service,42125.27273,11,0.000494357
+2021,"Transportation & Warehousing, and Utilities",Bus service & urban transit,20000.32653,49,0.002202137
+2021,"Transportation & Warehousing, and Utilities",Scenic & sightseeing transportation,19319.47487,398,0.017886748
+2021,"Transportation & Warehousing, and Utilities",Services incidental to transportation,19673.07722,1308,0.058783584
+2021,"Transportation & Warehousing, and Utilities",Couriers & messengers,26908.47942,486,0.021841607
+2021,"Transportation & Warehousing, and Utilities",Warehousing & storage,22211.78351,194,0.008718666
+2021,Information,Newspaper publishers,23331.37838,37,0.001662838
+2021,Information,"Periodical, book, & directory publishers",35163.18605,43,0.001932488
+2021,Information,Motion pictures & video industries,14679.30742,2251,0.101163493
+2021,Information,Sound recording industries,50550.30435,23,0.001033656
+2021,Information,Broadcasting (except internet),33614.55,80,0.003595326
+2021,Information,"Telecommunications, except wired telecommunications carriers ",15796.9375,16,0.000719065
+2021,Information,"Data processing, hosting & related services",5588.2,10,0.000449416
+2021,Information,"Internet publishing, broadcasting & web search portals",47266.19885,347,0.015594728
+2021,"Finance & Insurance, and Real Estate, Rental & Leasing","Savings institutions, including credit unions ",14756.17273,220,0.009887147
+2021,"Finance & Insurance, and Real Estate, Rental & Leasing",Nondepository credit & related activities,28876.09231,65,0.002921203
+2021,"Finance & Insurance, and Real Estate, Rental & Leasing",Insurance carriers,28518.30242,248,0.011145511
+2021,"Finance & Insurance, and Real Estate, Rental & Leasing",Banking & related activities,22738.75,180,0.008089484
+2021,"Finance & Insurance, and Real Estate, Rental & Leasing","Securities, commodities, funds, trusts & other financial investments",10999.80519,77,0.003460502
+2021,"Finance & Insurance, and Real Estate, Rental & Leasing","Real estate property managers, offices of real estate appraisers, and other activities related to real estate",25681.94907,216,0.009707381
+2021,"Finance & Insurance, and Real Estate, Rental & Leasing","Lessors of real estate, and offices of real estate agents and brokers",22954.31183,2434,0.109387801
+2021,"Finance & Insurance, and Real Estate, Rental & Leasing",Other consumer goods rental,27065.47015,134,0.006022171
+2021,"Finance & Insurance, and Real Estate, Rental & Leasing","Commercial, industrial & other intangible assets rental & leasing",11448.4,75,0.003370618
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Legal services,13411.5,6,0.000269649
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services","Accounting, tax preparation, bookkeeping & payroll services",61633.4717,106,0.004763807
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services","Architectural, engineering & related services",54762.81395,43,0.001932488
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Specialized design services,36459.43478,23,0.001033656
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Computer Systems Design,35320.71571,503,0.022605614
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services","Management, scientific & technical consulting services",20104.49254,268,0.012044343
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Scientific research & development services,36863.94118,238,0.010696096
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services","Advertising, public relations & related services",31310.8107,243,0.010920804
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services","Other professional, scientific & technical services ",18702.5125,160,0.007190653
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Management of companies & enterprises,40846.14933,375,0.016853092
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Employment services,16056.08176,2483,0.111589939
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Business support services,16234.66667,96,0.004314392
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Travel arrangements & reservation services,28042.68027,1054,0.047368423
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Investigation & security services,14398.72727,66,0.002966144
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Landscaping services,19276.13559,118,0.005303106
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Services to buildings & dwellings (except cleaning during construction & immediately after construction),17809.71765,170,0.007640068
+2021,"Professional, Scientific & Management, and Administrative & Waste Management Services",Other administrative & other support services,22538.21605,162,0.007280536
+2021,"Educational Services, Health Care & Social Assistance",Elementary & secondary schools,18736.3334,139815,6.283506755
+2021,"Educational Services, Health Care & Social Assistance","Colleges, universities & professional schools, including junior colleges",21545.22573,19537,0.878023613
+2021,"Educational Services, Health Care & Social Assistance","Business, technical & trade schools and training",28063.33861,316,0.014201539
+2021,"Educational Services, Health Care & Social Assistance",Other schools & instruction and educational support services,18829.28716,296,0.013302707
+2021,"Educational Services, Health Care & Social Assistance",Offices of physicians,25450.8905,484,0.021751724
+2021,"Educational Services, Health Care & Social Assistance",Offices of dentists,23220.23684,38,0.00170778
+2021,"Educational Services, Health Care & Social Assistance",Offices of optometrists,7471.816667,60,0.002696495
+2021,"Educational Services, Health Care & Social Assistance",Offices of other health practitioners,22964.96371,248,0.011145511
+2021,"Educational Services, Health Care & Social Assistance",Outpatient care centers,25041.05661,2950,0.132577656
+2021,"Educational Services, Health Care & Social Assistance",Home health care services,18442.73405,3072,0.138060528
+2021,"Educational Services, Health Care & Social Assistance",Other health care services,28776.70028,2162,0.097163692
+2021,"Educational Services, Health Care & Social Assistance",Psychiatric and substance abuse hospitals,29285.6208,654,0.029391792
+2021,"Educational Services, Health Care & Social Assistance","General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",30260.91774,35350,1.588684789
+2021,"Educational Services, Health Care & Social Assistance",Nursing Care Facilities,25411.1213,51162,2.299301024
+2021,"Educational Services, Health Care & Social Assistance","Residential care facilities, except skilled nursing facilities",25638.55954,39620,1.780585328
+2021,"Educational Services, Health Care & Social Assistance",Individual & family services,19376.5809,8461,0.380250693
+2021,"Educational Services, Health Care & Social Assistance","Community food & housing, & emergency services ",21662.51288,3455,0.155273153
+2021,"Educational Services, Health Care & Social Assistance",Vocational rehabilitation services,18537.85693,657,0.029526617
+2021,"Educational Services, Health Care & Social Assistance",Child day care services,19797.09958,19562,0.879147153
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services",Performing arts companies,26177.85795,176,0.007909718
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services",Spectator sports,16374.84455,624,0.028043545
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services","Independent artists, writers, and performers",54887.78317,309,0.013886948
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services","Promoters of performing arts, sports, and similar events, agents and managers for artists, athletes, entertainers, and other public figures",15015.97164,1234,0.055457907
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services","Museums, art galleries, historical sites, & similar institutions",13604.42738,1804,0.081074607
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services",Bowling centers,13576.93082,4221,0.189698402
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services",Amusement & Recreation,26067.4965,41307,1.856401771
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services",Traveler accommodation,28396.64894,43326,1.947138817
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services",Recreational vehicle parks & camps and rooming & boarding houses,14392.67919,2821,0.126780192
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services","Drinking places, alcoholic beverages ",17941.65138,10989,0.493863003
+2021,"Arts, Entertainment & Recreation and Accommodation & Food Services",Restaurants & Food Services,19475.51908,1622499,72.91766568
+2021,"Other Services, Except Public Administration",Car washes,14924.14063,64,0.002876261
+2021,"Other Services, Except Public Administration",Automotive repair & maintenance,17720.90741,54,0.002426845
+2021,"Other Services, Except Public Administration",Commercial & industrial machinery & equipment repair & maintenance,2123.493151,73,0.003280735
+2021,"Other Services, Except Public Administration",Beauty salons,23537.16049,81,0.003640268
+2021,"Other Services, Except Public Administration",Nail salons & other personal care services,31870.4898,49,0.002202137
+2021,"Other Services, Except Public Administration","Funeral homes, & cemeteries & crematories ",7025.847458,59,0.002651553
+2021,"Other Services, Except Public Administration",Drycleaning & laundry services,18502.71795,39,0.001752722
+2021,"Other Services, Except Public Administration",Other personal services,30388.94182,275,0.012358934
+2021,"Other Services, Except Public Administration",Religious organizations,17884.98713,3885,0.174598031
+2021,"Other Services, Except Public Administration",Labor unions,10930.94737,19,0.00085389
+2021,"Other Services, Except Public Administration","Business, professional, political, & similar organizations",26182.27523,109,0.004898632
+2021,"Other Services, Except Public Administration","Civic, social, advocacy organizations, & grantmaking & giving services",17741.99212,4443,0.199675432
+2021,"Other Services, Except Public Administration",Private households,35502.09853,4344,0.195226216
+2021,Public Administration,Public finance activities,3935.25,4,0.000179766
+2021,Public Administration,Other general government & support,14529,2,8.98832E-05
+2021,Public Administration,Executive offices & legislative bodies,28310.10518,1968,0.088445026
+2021,Public Administration,Administration of human resource programs,31804.16758,1283,0.057660045
+2021,Public Administration,National security & international affairs,28907.1598,2597,0.116713279
+2021,Public Administration,Administration of environmental quality & housing programs,17079.20144,139,0.006246879
+2021,Public Administration,Administration of economic programs & space research,35893,22,0.000988715
+2021,Public Administration,"Justice, public order, & safety activities ",36456.79401,4840,0.217517238
+2021,Active Duty Military,U. S. Army,27704.50357,2939,0.132083298
+2021,Active Duty Military,U. S. Air Force,31896.15968,501,0.022515731
+2021,Active Duty Military,U. S. Navy,30230.67288,3647,0.163901936
+2021,Active Duty Military,U. S. Marines,26440.272,1000,0.044941578
+2021,Active Duty Military,U. S Coast Guard,42829.25962,416,0.018695697
+2021,Active Duty Military,U. S. Armed Forces: Branch Not Specified,5444.909639,166,0.007460302
+2021,Active Duty Military,Military Reserves or National Guard,5773.809524,42,0.001887546
+2020,"Agriculture, Forestry, Fishing and Hunting, and Mining",Farming,21674.08652,705,0.030862374
+2020,"Agriculture, Forestry, Fishing and Hunting, and Mining",Animal production & aquaculture,20921.89388,556,0.024339687
+2020,"Agriculture, Forestry, Fishing and Hunting, and Mining",Logging,22052.9375,16,0.000700423
+2020,"Agriculture, Forestry, Fishing and Hunting, and Mining","Fishing, hunting & trapping",38281.9,50,0.002188821
+2020,"Agriculture, Forestry, Fishing and Hunting, and Mining",Oil & gas extraction,19219.86047,43,0.001882386
+2020,"Agriculture, Forestry, Fishing and Hunting, and Mining",Metal ore mining,20739.88,50,0.002188821
+2020,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for mining,34895.82645,121,0.005296946
+2020,Construction,Construction,33201.36378,635,0.027798024
+2020,Manufacturing,Sugar & confectionery products,33932.08514,646,0.028279565
+2020,Manufacturing,Fruit & vegetable preserving & specialty food manufacturing,30460.80738,1111,0.048635599
+2020,Manufacturing,Dairy product manufacturing,46387.53047,279,0.01221362
+2020,Manufacturing,Animal slaughtering & processing,28141.35798,1190,0.052093935
+2020,Manufacturing,Retail bakeries,17516.60139,2584,0.11311826
+2020,Manufacturing,"Bakeries & tortilla manufacturing, except retail bakeries",22196.5553,1736,0.075995859
+2020,Manufacturing,"Animal food, grain & oilseed milling",25837.55882,238,0.010418787
+2020,Manufacturing,"Seafood & other miscellaneous foods, n.e.c. ",33417.59381,1034,0.045264814
+2020,Manufacturing,"Not specified food industries, manufacturing",19971.49471,378,0.016547485
+2020,Manufacturing,Beverage manufacturing,29445.75962,1065,0.046621883
+2020,Manufacturing,"Cut and sew, and apparel accessories and other apparel manufacturing",14872.7027,37,0.001619727
+2020,Manufacturing,"Veneer, plywood, & engineered wood products ",55338.23077,13,0.000569093
+2020,Manufacturing,"Pulp, paper, & paperboard mills ",11540.45652,92,0.00402743
+2020,Manufacturing,Printing & related support activities,27828.48052,77,0.003370784
+2020,Manufacturing,Petroleum refining,26108.21212,33,0.001444622
+2020,Manufacturing,"Resin, synthetic rubber, & fibers & filaments manufacturing   ",25063.86667,60,0.002626585
+2020,Manufacturing,Pharmaceutical & medicine manufacturing,42812.48148,108,0.004727853
+2020,Manufacturing,Industrial & miscellaneous chemicals,21930.86207,29,0.001269516
+2020,Manufacturing,Clay building material & refractories manufacturing,102275.5,10,0.000437764
+2020,Manufacturing,Glass & glass product manufacturing,30682.71429,7,0.000306435
+2020,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing,61365.33333,12,0.000525317
+2020,Manufacturing,Nonferrous metal (except aluminum) production & processing,5869,17,0.000744199
+2020,Manufacturing,Iron & steel mills & steel product manufacturing,23644.66667,3,0.000131329
+2020,Manufacturing,Cutlery & hand tool manufacturing,24997.5,8,0.000350211
+2020,Manufacturing,"Structural metals, & boiler, tank, & shipping container manufacturing ",120737.8,5,0.000218882
+2020,Manufacturing,Miscellaneous fabricated metal products manufacturing,25568.86207,29,0.001269516
+2020,Manufacturing,"Machinery manufacturing, n.e.c. or not specified",51294.39189,74,0.003239455
+2020,Manufacturing,Computer & peripheral equipment manufacturing,44571.49254,67,0.00293302
+2020,Manufacturing,"Electronic component & product manufacturing, n.e.c. ",27080.56287,167,0.007310662
+2020,Manufacturing,Aircraft & parts manufacturing,22584.49068,161,0.007048003
+2020,Manufacturing,Motor vehicles & motor vehicle equipment manufacturing,23805.03922,51,0.002232597
+2020,Manufacturing,Furniture & related product manufacturing,31749.3,50,0.002188821
+2020,Manufacturing,Medical equipment & supplies manufacturing,35796.41667,12,0.000525317
+2020,Manufacturing,"Sporting & athletic goods, & doll, toy & game manufacturing  ",21355.4188,117,0.005121841
+2020,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ",33444.31469,143,0.006260028
+2020,Manufacturing,Not specified manufacturing industries,20607.99147,586,0.02565298
+2020,Wholesale Trade,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,10227.5,6,0.000262658
+2020,Wholesale Trade,Professional & commercial equipment & supplies merchant wholesalers,30682.64286,28,0.00122574
+2020,Wholesale Trade,Household appliances & electrical & electronic goods merchant wholesalers,32953.24,25,0.00109441
+2020,Wholesale Trade,Grocery & related product merchant wholesalers,24261.28242,3941,0.172522857
+2020,Wholesale Trade,Farm product raw material merchant wholesalers,5696.416667,12,0.000525317
+2020,Wholesale Trade,Petroleum & petroleum products merchant wholesalers,28636.08553,152,0.006654015
+2020,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers,18096.02857,35,0.001532175
+2020,Wholesale Trade,"Drugs, sundries, & chemical & allied products merchant  wholesalers ",4295.571429,14,0.00061287
+2020,Wholesale Trade,Wholesale electronic markets & agents & brokers,14354.78261,46,0.002013715
+2020,Wholesale Trade,Not specified wholesale trade,24911.55166,513,0.022457302
+2020,Retail Trade,Car Dealers,30161.66286,175,0.007660873
+2020,Retail Trade,Other motor vehicle dealers,6521.111111,9,0.000393988
+2020,Retail Trade,"Automotive parts, accessories, & tire stores  ",18110.68966,58,0.002539032
+2020,Retail Trade,Furniture & home furnishings stores,23834.12604,603,0.026397179
+2020,Retail Trade,Electronics stores,40818.06944,72,0.003151902
+2020,Retail Trade,Hardware stores,24552.03571,28,0.00122574
+2020,Retail Trade,Building material & supplies dealers,30007.90217,92,0.00402743
+2020,Retail Trade,Lawn & garden equipment & supplies stores,12171,2,8.75528E-05
+2020,Retail Trade,Supermarkets and Other Grocery (except Convenience) Stores,20817.52582,47290,2.070186728
+2020,Retail Trade,Convenience Stores,16601.82154,10473,0.458470408
+2020,Retail Trade,Specialty food stores,19857.22323,5940,0.260031913
+2020,Retail Trade,"Beer, wine, & liquor stores ",16199.9127,126,0.005515828
+2020,Retail Trade,Pharmacies & drug stores,14895.57914,278,0.012169844
+2020,Retail Trade,"Health & personal care, except drug, stores ",13632.73529,34,0.001488398
+2020,Retail Trade,Gasoline stations,16308.78277,19256,0.842958673
+2020,Retail Trade,Clothing stores,24902.73977,342,0.014971534
+2020,Retail Trade,Shoe stores,928.96,25,0.00109441
+2020,Retail Trade,"Sporting goods, and hobby & toy stores ",9774.737542,301,0.013176701
+2020,Retail Trade,Book stores & news dealers,13782.25,16,0.000700423
+2020,Retail Trade,Department stores,16308.05543,920,0.040274303
+2020,Retail Trade,"General merchandise stores, including warehouse clubs and supercenters",19553.6173,7097,0.310681227
+2020,Retail Trade,"Gift, novelty, & souvenir shops",31878.93333,45,0.001969939
+2020,Retail Trade,Used merchandise stores,18220.36056,355,0.015540628
+2020,Retail Trade,Miscellaneous retail stores,11025.52941,238,0.010418787
+2020,Retail Trade,Electronic shopping and mail-order houses,9262.394737,38,0.001663504
+2020,Retail Trade,Vending machine operators,23127.35741,263,0.011513197
+2020,Retail Trade,Fuel dealers,20599.16667,12,0.000525317
+2020,Retail Trade,Other direct selling establishments,9442.536723,177,0.007748426
+2020,Retail Trade,Not specified retail trade,35020.62495,2365,0.103531225
+2020,"Transportation & Warehousing, and Utilities","Electric power generation, transmission & distribution",17471.10417,96,0.004202536
+2020,"Transportation & Warehousing, and Utilities",Natural gas distribution,33614.64286,14,0.00061287
+2020,"Transportation & Warehousing, and Utilities",Air transportation,23663.18039,255,0.011162986
+2020,"Transportation & Warehousing, and Utilities",Rail transportation,56584.05291,189,0.008273743
+2020,"Transportation & Warehousing, and Utilities",Water transportation,46590.54341,1198,0.052444147
+2020,"Transportation & Warehousing, and Utilities",Truck transportation,22449.28,25,0.00109441
+2020,"Transportation & Warehousing, and Utilities",Taxi & limousine service,40246,10,0.000437764
+2020,"Transportation & Warehousing, and Utilities",Bus service & urban transit,3823.367347,49,0.002145044
+2020,"Transportation & Warehousing, and Utilities",Scenic & sightseeing transportation,21818.44854,515,0.022544854
+2020,"Transportation & Warehousing, and Utilities",Services incidental to transportation,22325.00423,1181,0.051699948
+2020,"Transportation & Warehousing, and Utilities",Couriers & messengers,15915.60435,230,0.010068576
+2020,"Transportation & Warehousing, and Utilities",Warehousing & storage,19926.46667,180,0.007879755
+2020,Information,Newspaper publishers,21800.81579,38,0.001663504
+2020,Information,"Periodical, book, & directory publishers",27152.54167,24,0.001050634
+2020,Information,Motion pictures & video industries,14263.0041,2682,0.117408349
+2020,Information,Sound recording industries,48295.14286,21,0.000919305
+2020,Information,Broadcasting (except internet),29031.34211,114,0.004990511
+2020,Information,"Telecommunications, except wired telecommunications carriers ",15092.25,20,0.000875528
+2020,Information,"Data processing, hosting & related services",5338.888889,9,0.000393988
+2020,Information,Libraries & archives,9999,9,0.000393988
+2020,Information,"Internet publishing, broadcasting & web search portals",41360.81448,221,0.009674588
+2020,"Finance & Insurance, and Real Estate, Rental & Leasing","Savings institutions, including credit unions ",13315.35294,221,0.009674588
+2020,"Finance & Insurance, and Real Estate, Rental & Leasing",Nondepository credit & related activities,26989.60606,66,0.002889243
+2020,"Finance & Insurance, and Real Estate, Rental & Leasing",Insurance carriers,24739.77037,135,0.005909816
+2020,"Finance & Insurance, and Real Estate, Rental & Leasing",Banking & related activities,19525.53017,232,0.010156129
+2020,"Finance & Insurance, and Real Estate, Rental & Leasing","Securities, commodities, funds, trusts & other financial investments",42025.65753,219,0.009587035
+2020,"Finance & Insurance, and Real Estate, Rental & Leasing","Real estate property managers, offices of real estate appraisers, and other activities related to real estate",22526.35263,380,0.016635038
+2020,"Finance & Insurance, and Real Estate, Rental & Leasing","Lessors of real estate, and offices of real estate agents and brokers",21776.87696,2674,0.117058137
+2020,"Finance & Insurance, and Real Estate, Rental & Leasing",Other consumer goods rental,25858.03333,120,0.00525317
+2020,"Finance & Insurance, and Real Estate, Rental & Leasing","Commercial, industrial & other intangible assets rental & leasing",10939.61194,67,0.00293302
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Legal services,12813.25,4,0.000175106
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services","Accounting, tax preparation, bookkeeping & payroll services",31182.78723,47,0.002057492
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services","Architectural, engineering & related services",52319.75,36,0.001575951
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Specialized design services,68471.5,12,0.000525317
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Computer Systems Design,34396.22505,471,0.020618692
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services","Management, scientific & technical consulting services",19424.62182,275,0.012038514
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Scientific research & development services,28751.69517,269,0.011775856
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services","Advertising, public relations & related services",27079.12077,207,0.009061718
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services","Other professional, scientific & technical services ",18282.01818,165,0.007223109
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Management of companies & enterprises,38686.06799,353,0.015453075
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Employment services,13394.96752,3325,0.145556584
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Business support services,49611.84,25,0.00109441
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Travel arrangements & reservation services,26488.37511,1141,0.049948891
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Investigation & security services,14718.98551,138,0.006041145
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Landscaping services,21518.76,75,0.003283231
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Services to buildings & dwellings (except cleaning during construction & immediately after construction),12244,106,0.0046403
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Other administrative & other support services,21505.93855,179,0.007835979
+2020,"Professional, Scientific & Management, and Administrative & Waste Management Services",Waste management & remediation services,97816.40741,27,0.001181963
+2020,"Educational Services, Health Care & Social Assistance",Elementary & secondary schools,17925.84275,141106,6.177115003
+2020,"Educational Services, Health Care & Social Assistance","Colleges, universities & professional schools, including junior colleges",20351.23558,21814,0.954938746
+2020,"Educational Services, Health Care & Social Assistance","Business, technical & trade schools and training",29178.47788,339,0.014840205
+2020,"Educational Services, Health Care & Social Assistance",Other schools & instruction and educational support services,18677.46201,487,0.021319115
+2020,"Educational Services, Health Care & Social Assistance",Offices of physicians,21982.53535,495,0.021669326
+2020,"Educational Services, Health Care & Social Assistance",Offices of dentists,20455.16667,6,0.000262658
+2020,"Educational Services, Health Care & Social Assistance",Offices of chiropractors,18150.37931,87,0.003808548
+2020,"Educational Services, Health Care & Social Assistance",Offices of optometrists,7477.442308,52,0.002276374
+2020,"Educational Services, Health Care & Social Assistance",Offices of other health practitioners,20881.61486,148,0.00647891
+2020,"Educational Services, Health Care & Social Assistance",Outpatient care centers,23618.39579,2898,0.126864055
+2020,"Educational Services, Health Care & Social Assistance",Home health care services,17787.85285,2895,0.126732725
+2020,"Educational Services, Health Care & Social Assistance",Other health care services,25554.08635,2351,0.102918355
+2020,"Educational Services, Health Care & Social Assistance",Psychiatric and substance abuse hospitals,27760.27603,605,0.026484732
+2020,"Educational Services, Health Care & Social Assistance","General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",29100.24212,37229,1.629752204
+2020,"Educational Services, Health Care & Social Assistance",Nursing Care Facilities,23405.15954,51825,2.268712776
+2020,"Educational Services, Health Care & Social Assistance","Residential care facilities, except skilled nursing facilities",23274.4658,39807,1.742607805
+2020,"Educational Services, Health Care & Social Assistance",Individual & family services,18560.53713,8739,0.382562102
+2020,"Educational Services, Health Care & Social Assistance","Community food & housing, & emergency services ",20500.88667,3203,0.140215862
+2020,"Educational Services, Health Care & Social Assistance",Vocational rehabilitation services,16297.64149,781,0.034189381
+2020,"Educational Services, Health Care & Social Assistance",Child day care services,18509.11412,20225,0.88537802
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services",Performing arts companies,23806.04959,242,0.010593893
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services",Spectator sports,15952.18741,667,0.02919887
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services","Independent artists, writers, and performers",34471.17241,522,0.022851289
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services","Promoters of performing arts, sports, and similar events, agents and managers for artists, athletes, entertainers, and other public figures",13335.89649,1169,0.051174631
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services","Museums, art galleries, historical sites, & similar institutions",14429.93388,2072,0.090704735
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services",Bowling centers,13730.93691,4438,0.194279736
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services",Amusement & Recreation,25285.4041,45847,2.00701736
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services",Traveler accommodation,27714.834,48380,2.117903022
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services",Recreational vehicle parks & camps and rooming & boarding houses,16740.21969,3514,0.153830327
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services","Drinking places, alcoholic beverages ",17654.11147,12057,0.527812252
+2020,"Arts, Entertainment & Recreation and Accommodation & Food Services",Restaurants & Food Services,18614.27171,1661847,72.74970615
+2020,"Other Services, Except Public Administration",Car washes,14305.55,60,0.002626585
+2020,"Other Services, Except Public Administration",Automotive repair & maintenance,20123,16,0.000700423
+2020,"Other Services, Except Public Administration",Commercial & industrial machinery & equipment repair & maintenance,2028.771429,70,0.003064349
+2020,"Other Services, Except Public Administration",Beauty salons,33789.93939,33,0.001444622
+2020,"Other Services, Except Public Administration",Nail salons & other personal care services,24407.13913,115,0.005034288
+2020,"Other Services, Except Public Administration","Funeral homes, & cemeteries & crematories ",16436.16438,73,0.003195678
+2020,"Other Services, Except Public Administration",Drycleaning & laundry services,16487.7027,37,0.001619727
+2020,"Other Services, Except Public Administration",Other personal services,28784.65972,288,0.012607608
+2020,"Other Services, Except Public Administration",Religious organizations,16639.36842,4313,0.188807684
+2020,"Other Services, Except Public Administration",Labor unions,11612.61333,75,0.003283231
+2020,"Other Services, Except Public Administration","Business, professional, political, & similar organizations",23375.5274,146,0.006391357
+2020,"Other Services, Except Public Administration","Civic, social, advocacy organizations, & grantmaking & giving services",15937.96896,4672,0.204523417
+2020,"Other Services, Except Public Administration",Private households,32432.1932,4001,0.175149442
+2020,Public Administration,Public finance activities,3759.5,4,0.000175106
+2020,Public Administration,Other general government & support,13881,2,8.75528E-05
+2020,Public Administration,Executive offices & legislative bodies,24892.49145,2338,0.102349261
+2020,Public Administration,Administration of human resource programs,29083.04061,1305,0.057128223
+2020,Public Administration,National security & international affairs,32401.91192,2895,0.126732725
+2020,Public Administration,Administration of environmental quality & housing programs,16364.9863,146,0.006391357
+2020,Public Administration,Administration of economic programs & space research,35847.4,20,0.000875528
+2020,Public Administration,"Justice, public order, & safety activities ",33337.03294,5039,0.220589362
+2020,Active Duty Military,U. S. Army,27554.85921,2969,0.12997218
+2020,Active Duty Military,U. S. Air Force,29956.30909,495,0.021669326
+2020,Active Duty Military,U. S. Navy,30745.46048,3568,0.156194253
+2020,Active Duty Military,U. S. Marines,17418.19251,1361,0.059579703
+2020,Active Duty Military,U. S Coast Guard,40384.43503,354,0.015496851
+2020,Active Duty Military,U. S. Armed Forces: Branch Not Specified,5196.60119,168,0.007354438
+2020,Active Duty Military,Military Reserves or National Guard,17421.3913,69,0.003020573
+2019,"Agriculture, Forestry, Fishing and Hunting, and Mining",Farming,22001.44966,725,0.030781079
+2019,"Agriculture, Forestry, Fishing and Hunting, and Mining",Animal production & aquaculture,17360.32203,472,0.020039544
+2019,"Agriculture, Forestry, Fishing and Hunting, and Mining",Logging,20280.13333,15,0.00063685
+2019,"Agriculture, Forestry, Fishing and Hunting, and Mining","Fishing, hunting & trapping",14437.72414,174,0.007387459
+2019,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for agriculture & forestry,14370.25806,62,0.002632313
+2019,"Agriculture, Forestry, Fishing and Hunting, and Mining",Oil & gas extraction,18982.90476,42,0.00178318
+2019,"Agriculture, Forestry, Fishing and Hunting, and Mining",Metal ore mining,20484.18,50,0.002122833
+2019,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for mining,31942.84746,177,0.007514829
+2019,Construction,Construction,31653.32317,492,0.020888677
+2019,Manufacturing,Sugar & confectionery products,31735.63521,551,0.02339362
+2019,Manufacturing,Fruit & vegetable preserving & specialty food manufacturing,32710.91567,1257,0.053368023
+2019,Manufacturing,Dairy product manufacturing,47356.47727,264,0.011208559
+2019,Manufacturing,Animal slaughtering & processing,27526.16973,1414,0.060033719
+2019,Manufacturing,Retail bakeries,17416.15114,2673,0.113486656
+2019,Manufacturing,"Bakeries & tortilla manufacturing, except retail bakeries",19405.57449,1631,0.069246815
+2019,Manufacturing,"Animal food, grain & oilseed milling",32806.67683,164,0.006962892
+2019,Manufacturing,"Seafood & other miscellaneous foods, n.e.c. ",31526.62848,934,0.039654522
+2019,Manufacturing,"Not specified food industries, manufacturing",18909.71391,381,0.016175988
+2019,Manufacturing,Beverage manufacturing,28121.54787,1128,0.047891114
+2019,Manufacturing,"Cut and sew, and apparel accessories and other apparel manufacturing",22216.5,130,0.005519366
+2019,Manufacturing,"Pulp, paper, & paperboard mills ",11379.93548,93,0.00394847
+2019,Manufacturing,Printing & related support activities,21925.39683,63,0.00267477
+2019,Manufacturing,Petroleum refining,25786.29412,34,0.001443526
+2019,Manufacturing,"Resin, synthetic rubber, & fibers & filaments manufacturing   ",24754.84783,46,0.001953006
+2019,Manufacturing,Pharmaceutical & medicine manufacturing,30487.04545,66,0.00280214
+2019,Manufacturing,Industrial & miscellaneous chemicals,21660.46667,30,0.0012737
+2019,Manufacturing,Plastics product manufacturing,28092.22727,22,0.000934047
+2019,Manufacturing,Clay building material & refractories manufacturing,101014.5,8,0.000339653
+2019,Manufacturing,Glass & glass product manufacturing,30304.33333,6,0.00025474
+2019,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing,24691.74627,67,0.002844596
+2019,Manufacturing,Nonferrous metal (except aluminum) production & processing,5796.625,16,0.000679307
+2019,Manufacturing,Iron & steel mills & steel product manufacturing,91840,6,0.00025474
+2019,Manufacturing,Cutlery & hand tool manufacturing,26371.10345,29,0.001231243
+2019,Manufacturing,"Machine shops; turned product; screw, nut & bolt manufacturing  ",19448.46154,26,0.001103873
+2019,Manufacturing,Miscellaneous fabricated metal products manufacturing,25253.62963,27,0.00114633
+2019,Manufacturing,"Machinery manufacturing, n.e.c. or not specified",35259.55294,85,0.003608816
+2019,Manufacturing,Computer & peripheral equipment manufacturing,44497.16923,65,0.002759683
+2019,Manufacturing,"Electronic component & product manufacturing, n.e.c. ",25884.2,75,0.00318425
+2019,Manufacturing,Aircraft & parts manufacturing,24129.53097,113,0.004797603
+2019,Manufacturing,Motor vehicles & motor vehicle equipment manufacturing,23511.94545,55,0.002335116
+2019,Manufacturing,Furniture & related product manufacturing,31337.81818,55,0.002335116
+2019,Manufacturing,Medical equipment & supplies manufacturing,35355.07692,13,0.000551937
+2019,Manufacturing,"Sporting & athletic goods, & doll, toy & game manufacturing  ",21092.11828,93,0.00394847
+2019,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ",30264.53714,175,0.007429916
+2019,Manufacturing,Not specified manufacturing industries,20381.34324,673,0.028573333
+2019,Wholesale Trade,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,9284.773585,53,0.002250203
+2019,Wholesale Trade,Furniture & home furnishing merchant wholesalers,21609.42857,14,0.000594393
+2019,Wholesale Trade,Professional & commercial equipment & supplies merchant wholesalers,30304.34375,32,0.001358613
+2019,Wholesale Trade,Household appliances & electrical & electronic goods merchant wholesalers,31249.2963,27,0.00114633
+2019,Wholesale Trade,"Apparel, piece goods, & notions merchant wholesalers",12101.27586,29,0.001231243
+2019,Wholesale Trade,Grocery & related product merchant wholesalers,23528.24074,4021,0.170718235
+2019,Wholesale Trade,Farm product raw material merchant wholesalers,6161.84,25,0.001061417
+2019,Wholesale Trade,Petroleum & petroleum products merchant wholesalers,27081.30508,59,0.002504943
+2019,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers,46415.33333,12,0.00050948
+2019,Wholesale Trade,"Drugs, sundries, & chemical & allied products merchant  wholesalers ",4242.6,15,0.00063685
+2019,Wholesale Trade,Wholesale electronic markets & agents & brokers,11907.03704,54,0.00229266
+2019,Wholesale Trade,Not specified wholesale trade,26864.26729,535,0.022714314
+2019,Retail Trade,Car Dealers,30085.25714,245,0.010401882
+2019,Retail Trade,Other motor vehicle dealers,40368.45652,46,0.001953006
+2019,Retail Trade,Furniture & home furnishings stores,24055.52252,666,0.028276136
+2019,Retail Trade,Electronics stores,40334.52174,69,0.00292951
+2019,Retail Trade,Hardware stores,21862.82143,28,0.001188787
+2019,Retail Trade,Building material & supplies dealers,32619.43243,74,0.003141793
+2019,Retail Trade,Lawn & garden equipment & supplies stores,12020.5,2,8.49133E-05
+2019,Retail Trade,Supermarkets and Other Grocery (except Convenience) Stores,20753.06558,49408,2.097698722
+2019,Retail Trade,Convenience Stores,17081.3434,9135,0.387841601
+2019,Retail Trade,Specialty food stores,19003.47921,6492,0.275628645
+2019,Retail Trade,"Beer, wine, & liquor stores ",15181.12037,108,0.004585319
+2019,Retail Trade,Pharmacies & drug stores,13820.96045,354,0.015029658
+2019,Retail Trade,"Health & personal care, except drug, stores ",13815.23529,34,0.001443526
+2019,Retail Trade,Gasoline stations,15814.59288,19196,0.81499807
+2019,Retail Trade,Clothing stores,26770.61503,439,0.018638474
+2019,Retail Trade,Shoe stores,917.5,24,0.00101896
+2019,Retail Trade,"Sewing, needlework, & piece goods stores ",23770.35294,17,0.000721763
+2019,Retail Trade,Musical instrument & supplies stores,75632.875,8,0.000339653
+2019,Retail Trade,"Sporting goods, and hobby & toy stores ",18907.78384,458,0.019445151
+2019,Retail Trade,Book stores & news dealers,13631.64516,31,0.001316157
+2019,Retail Trade,Department stores,14826.7154,1156,0.0490799
+2019,Retail Trade,"General merchandise stores, including warehouse clubs and supercenters",19205.86172,6306,0.267731706
+2019,Retail Trade,"Gift, novelty, & souvenir shops",31202.83721,43,0.001825636
+2019,Retail Trade,Used merchandise stores,18804.06752,311,0.013204022
+2019,Retail Trade,Miscellaneous retail stores,11479.4959,244,0.010359425
+2019,Retail Trade,Electronic shopping and mail-order houses,8936.897436,39,0.00165581
+2019,Retail Trade,Vending machine operators,28316.41985,262,0.011123645
+2019,Retail Trade,Fuel dealers,21763.18182,11,0.000467023
+2019,Retail Trade,Other direct selling establishments,8809.402174,92,0.003906013
+2019,Retail Trade,Not specified retail trade,31971.41171,2322,0.098584368
+2019,"Transportation & Warehousing, and Utilities","Electric power generation, transmission & distribution",17225.70588,102,0.004330579
+2019,"Transportation & Warehousing, and Utilities",Natural gas distribution,33213.76471,17,0.000721763
+2019,"Transportation & Warehousing, and Utilities",Air transportation,18104.03556,225,0.009552749
+2019,"Transportation & Warehousing, and Utilities",Rail transportation,51810.26667,45,0.00191055
+2019,"Transportation & Warehousing, and Utilities",Water transportation,43437.60845,899,0.038168539
+2019,"Transportation & Warehousing, and Utilities",Truck transportation,22100.03846,26,0.001103873
+2019,"Transportation & Warehousing, and Utilities",Bus service & urban transit,15429.93846,130,0.005519366
+2019,"Transportation & Warehousing, and Utilities",Pipeline transportation,27011.76471,17,0.000721763
+2019,"Transportation & Warehousing, and Utilities",Scenic & sightseeing transportation,22758.13745,502,0.021313244
+2019,"Transportation & Warehousing, and Utilities",Services incidental to transportation,22604.66764,1363,0.057868429
+2019,"Transportation & Warehousing, and Utilities",Couriers & messengers,18269.52874,174,0.007387459
+2019,"Transportation & Warehousing, and Utilities",Warehousing & storage,18723.27545,167,0.007090262
+2019,Information,Newspaper publishers,22068.70588,34,0.001443526
+2019,Information,"Periodical, book, & directory publishers",23952.44444,27,0.00114633
+2019,Information,Motion pictures & video industries,14046.33246,3071,0.130384407
+2019,Information,Broadcasting (except internet),24406.675,80,0.003396533
+2019,Information,"Data processing, hosting & related services",5273,9,0.00038211
+2019,Information,Libraries & archives,9875.7,10,0.000424567
+2019,Information,"Internet publishing, broadcasting & web search portals",55861.97627,295,0.012524715
+2019,"Finance & Insurance, and Real Estate, Rental & Leasing","Savings institutions, including credit unions ",26154.22388,67,0.002844596
+2019,"Finance & Insurance, and Real Estate, Rental & Leasing",Nondepository credit & related activities,26735.91045,67,0.002844596
+2019,"Finance & Insurance, and Real Estate, Rental & Leasing",Insurance carriers,21312.66102,177,0.007514829
+2019,"Finance & Insurance, and Real Estate, Rental & Leasing","Agencies, brokerages, and other insurance related activities",19634.72414,29,0.001231243
+2019,"Finance & Insurance, and Real Estate, Rental & Leasing",Banking & related activities,17814.54018,224,0.009510292
+2019,"Finance & Insurance, and Real Estate, Rental & Leasing","Securities, commodities, funds, trusts & other financial investments",38846.84195,329,0.013968242
+2019,"Finance & Insurance, and Real Estate, Rental & Leasing","Real estate property managers, offices of real estate appraisers, and other activities related to real estate",21645.92979,470,0.019954631
+2019,"Finance & Insurance, and Real Estate, Rental & Leasing","Lessors of real estate, and offices of real estate agents and brokers",20874.34126,2945,0.125034868
+2019,"Finance & Insurance, and Real Estate, Rental & Leasing","Commercial, industrial & other intangible assets rental & leasing",10546.04348,23,0.000976503
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Legal services,26768.7619,21,0.00089159
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services","Accounting, tax preparation, bookkeeping & payroll services",28238.14379,153,0.006495869
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services","Architectural, engineering & related services",21609.4,35,0.001485983
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Specialized design services,67627.33333,12,0.00050948
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Computer Systems Design,32715.83333,240,0.010189599
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services","Management, scientific & technical consulting services",19720.07234,235,0.009977315
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Scientific research & development services,27548.41727,278,0.011802952
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services","Advertising, public relations & related services",11965.4321,81,0.00343899
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services","Other professional, scientific & technical services ",25311.20879,91,0.003863556
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Management of companies & enterprises,36857.85302,381,0.016175988
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Employment services,12226.40688,3399,0.144310192
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Business support services,49000.16,25,0.001061417
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Travel arrangements & reservation services,26449.2719,1096,0.046532501
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Investigation & security services,14652.92169,166,0.007047806
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Landscaping services,20743.5493,71,0.003014423
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Services to buildings & dwellings (except cleaning during construction & immediately after construction),10981.10714,140,0.005943933
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Other administrative & other support services,21057.86076,158,0.006708152
+2019,"Professional, Scientific & Management, and Administrative & Waste Management Services",Waste management & remediation services,75892.74359,39,0.00165581
+2019,"Educational Services, Health Care & Social Assistance",Elementary & secondary schools,17557.3759,143819,6.106074572
+2019,"Educational Services, Health Care & Social Assistance","Colleges, universities & professional schools, including junior colleges",18695.66011,22072,0.937103428
+2019,"Educational Services, Health Care & Social Assistance","Business, technical & trade schools and training",25424.28571,427,0.018128994
+2019,"Educational Services, Health Care & Social Assistance",Other schools & instruction and educational support services,17973.36399,772,0.032776543
+2019,"Educational Services, Health Care & Social Assistance",Offices of physicians,22358.62381,420,0.017831798
+2019,"Educational Services, Health Care & Social Assistance",Offices of dentists,20202.83333,6,0.00025474
+2019,"Educational Services, Health Care & Social Assistance",Offices of chiropractors,17926.59615,52,0.002207746
+2019,"Educational Services, Health Care & Social Assistance",Offices of optometrists,14797.74737,95,0.004033383
+2019,"Educational Services, Health Care & Social Assistance",Offices of other health practitioners,15642.68939,132,0.005604279
+2019,"Educational Services, Health Care & Social Assistance",Outpatient care centers,24517.69351,2633,0.111788389
+2019,"Educational Services, Health Care & Social Assistance",Home health care services,16891.05386,2748,0.116670905
+2019,"Educational Services, Health Care & Social Assistance",Other health care services,24939.07402,2013,0.085465259
+2019,"Educational Services, Health Care & Social Assistance",Psychiatric and substance abuse hospitals,26540.45415,698,0.02963475
+2019,"Educational Services, Health Care & Social Assistance","General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",29116.4693,38442,1.632118974
+2019,"Educational Services, Health Care & Social Assistance",Nursing Care Facilities,22580.98364,53371,2.26595447
+2019,"Educational Services, Health Care & Social Assistance","Residential care facilities, except skilled nursing facilities",22118.98963,37414,1.588473526
+2019,"Educational Services, Health Care & Social Assistance",Individual & family services,18049.36341,9430,0.400366316
+2019,"Educational Services, Health Care & Social Assistance","Community food & housing, & emergency services ",21092.7068,2957,0.125544347
+2019,"Educational Services, Health Care & Social Assistance",Vocational rehabilitation services,18428.85714,651,0.027639287
+2019,"Educational Services, Health Care & Social Assistance",Child day care services,18253.70321,21227,0.901227549
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services",Performing arts companies,23359.61756,353,0.014987201
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services",Spectator sports,12082.89048,557,0.02364836
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services","Independent artists, writers, and performers",29321.22126,696,0.029549836
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services","Promoters of performing arts, sports, and similar events, agents and managers for artists, athletes, entertainers, and other public figures",13741.30257,1322,0.056127706
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services","Museums, art galleries, historical sites, & similar institutions",14398.44166,2271,0.096419078
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services",Bowling centers,13668.87282,4301,0.1826061
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services",Amusement & Recreation,25142.39139,47599,2.020894621
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services",Traveler accommodation,27301.63379,54849,2.328705416
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services",Recreational vehicle parks & camps and rooming & boarding houses,16686.32903,3875,0.164519563
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services","Drinking places, alcoholic beverages ",17483.16914,12203,0.518098638
+2019,"Arts, Entertainment & Recreation and Accommodation & Food Services",Restaurants & Food Services,18162.13077,1717291,72.91044234
+2019,"Other Services, Except Public Administration",Car washes,13596.87097,62,0.002632313
+2019,"Other Services, Except Public Administration",Commercial & industrial machinery & equipment repair & maintenance,2003.746667,75,0.00318425
+2019,"Other Services, Except Public Administration",Beauty salons,32740.125,32,0.001358613
+2019,"Other Services, Except Public Administration",Nail salons & other personal care services,51517.375,16,0.000679307
+2019,"Other Services, Except Public Administration","Funeral homes, & cemeteries & crematories ",15764.43478,69,0.00292951
+2019,"Other Services, Except Public Administration",Drycleaning & laundry services,23213.10526,19,0.000806677
+2019,"Other Services, Except Public Administration",Other personal services,27587.03521,284,0.012057692
+2019,"Other Services, Except Public Administration",Religious organizations,16155.10024,4240,0.180016244
+2019,"Other Services, Except Public Administration",Labor unions,11429.61333,75,0.00318425
+2019,"Other Services, Except Public Administration","Business, professional, political, & similar organizations",22432.17986,139,0.005901476
+2019,"Other Services, Except Public Administration","Civic, social, advocacy organizations, & grantmaking & giving services",15973.89597,4960,0.21058504
+2019,"Other Services, Except Public Administration",Private households,32933.24482,4154,0.176364971
+2019,Public Administration,Public finance activities,22028.01923,52,0.002207746
+2019,Public Administration,Other general government & support,11673.29412,17,0.000721763
+2019,Public Administration,Executive offices & legislative bodies,24301.47524,2443,0.103721624
+2019,Public Administration,Administration of human resource programs,28857.20232,1122,0.047636374
+2019,Public Administration,National security & international affairs,30943.52081,3268,0.138748369
+2019,Public Administration,Administration of environmental quality & housing programs,16098.11409,149,0.006326043
+2019,Public Administration,Administration of economic programs & space research,36468.55556,18,0.00076422
+2019,Public Administration,"Justice, public order, & safety activities ",32220.09209,5245,0.222685189
+2019,Active Duty Military,U. S. Army,29836.2005,2823,0.119855155
+2019,Active Duty Military,U. S. Air Force,31456.65025,406,0.017237404
+2019,Active Duty Military,U. S. Navy,31660.20519,3777,0.16035881
+2019,Active Duty Military,U. S. Marines,16247.50042,1197,0.050820624
+2019,Active Duty Military,U. S Coast Guard,40286.17162,437,0.018553561
+2019,Active Duty Military,U. S. Armed Forces: Branch Not Specified,5032.807229,166,0.007047806
+2019,Active Duty Military,Military Reserves or National Guard,18181.19048,84,0.00356636
+2018,"Agriculture, Forestry, Fishing and Hunting, and Mining",Farming,20487.22073,820,0.034909274
+2018,"Agriculture, Forestry, Fishing and Hunting, and Mining",Animal production & aquaculture,16518.11523,512,0.02179701
+2018,"Agriculture, Forestry, Fishing and Hunting, and Mining",Logging,19919.33333,15,0.000638584
+2018,"Agriculture, Forestry, Fishing and Hunting, and Mining","Fishing, hunting & trapping",14212.01476,271,0.011537089
+2018,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for agriculture & forestry,14114.51563,64,0.002724626
+2018,"Agriculture, Forestry, Fishing and Hunting, and Mining",Oil & gas extraction,32428.50862,116,0.004938385
+2018,"Agriculture, Forestry, Fishing and Hunting, and Mining",Metal ore mining,20242.37736,53,0.002256331
+2018,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for mining,36238.09607,229,0.009749053
+2018,Construction,Construction,31409.35698,437,0.018604089
+2018,Manufacturing,Sugar & confectionery products,28564.44898,539,0.022946462
+2018,Manufacturing,Fruit & vegetable preserving & specialty food manufacturing,31528.18029,1370,0.058324031
+2018,Manufacturing,Dairy product manufacturing,44470.14377,313,0.013325125
+2018,Manufacturing,Animal slaughtering & processing,25599.54173,1222,0.052023333
+2018,Manufacturing,Retail bakeries,16375.80698,2663,0.113369997
+2018,Manufacturing,"Bakeries & tortilla manufacturing, except retail bakeries",19058.5,1336,0.056876574
+2018,Manufacturing,"Animal food, grain & oilseed milling",30563.32039,206,0.008769891
+2018,Manufacturing,"Seafood & other miscellaneous foods, n.e.c. ",32486.85683,901,0.038357629
+2018,Manufacturing,"Not specified food industries, manufacturing",17097.92081,543,0.023116751
+2018,Manufacturing,Beverage manufacturing,28657.63595,1107,0.04712752
+2018,Manufacturing,Tobacco manufacturing,51392.28571,14,0.000596012
+2018,Manufacturing,"Cut and sew, and apparel accessories and other apparel manufacturing",21680.62992,127,0.00540668
+2018,Manufacturing,"Pulp, paper, & paperboard mills ",11142.73684,95,0.004044367
+2018,Manufacturing,Printing & related support activities,20896.29787,47,0.002000897
+2018,Manufacturing,Petroleum refining,25327.4375,32,0.001362313
+2018,Manufacturing,"Resin, synthetic rubber, & fibers & filaments manufacturing   ",24314.32558,43,0.001830608
+2018,Manufacturing,Pharmaceutical & medicine manufacturing,27665.32468,77,0.003278066
+2018,Manufacturing,Industrial & miscellaneous chemicals,26216.51389,72,0.003065205
+2018,Manufacturing,Plastics product manufacturing,27592.27273,22,0.00093659
+2018,Manufacturing,Glass & glass product manufacturing,12848,2,8.51446E-05
+2018,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing,16555.38462,52,0.002213759
+2018,Manufacturing,Nonferrous metal (except aluminum) production & processing,5693.4375,16,0.000681157
+2018,Manufacturing,Iron & steel mills & steel product manufacturing,90205.6,5,0.000212861
+2018,Manufacturing,Cutlery & hand tool manufacturing,25939.66667,27,0.001149452
+2018,Manufacturing,"Machine shops; turned product; screw, nut & bolt manufacturing  ",19091.53571,28,0.001192024
+2018,Manufacturing,"Structural metals, & boiler, tank, & shipping container manufacturing ",33190.86111,36,0.001532602
+2018,Manufacturing,Miscellaneous fabricated metal products manufacturing,13501.82353,85,0.003618644
+2018,Manufacturing,"Machinery manufacturing, n.e.c. or not specified",20807.84848,66,0.002809771
+2018,Manufacturing,Computer & peripheral equipment manufacturing,44067.26667,60,0.002554337
+2018,Manufacturing,"Electronic component & product manufacturing, n.e.c. ",25951.83168,101,0.004299801
+2018,Manufacturing,Household appliance manufacturing,2569.642857,14,0.000596012
+2018,Manufacturing,"Electric lighting & electrical equipment manufacturing, & other electrical component manufacturing, n.e.c.",23554.75,4,0.000170289
+2018,Manufacturing,Aircraft & parts manufacturing,22118.18605,129,0.005491825
+2018,Manufacturing,Aerospace products & parts manufacturing,33405,14,0.000596012
+2018,Manufacturing,Ship & boat building,34601,41,0.001745464
+2018,Manufacturing,Motor vehicles & motor vehicle equipment manufacturing,23098.61224,49,0.002086042
+2018,Manufacturing,Furniture & related product manufacturing,21752.57143,7,0.000298006
+2018,Manufacturing,"Sporting & athletic goods, & doll, toy & game manufacturing  ",20716.76136,88,0.003746361
+2018,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ",33580.716,250,0.010643071
+2018,Manufacturing,Not specified manufacturing industries,18490.16694,617,0.0262671
+2018,Wholesale Trade,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,6916.716667,60,0.002554337
+2018,Wholesale Trade,Furniture & home furnishing merchant wholesalers,21224.84615,13,0.00055344
+2018,Wholesale Trade,Professional & commercial equipment & supplies merchant wholesalers,64240.37838,37,0.001575175
+2018,Wholesale Trade,Household appliances & electrical & electronic goods merchant wholesalers,29594.41379,29,0.001234596
+2018,Wholesale Trade,"Apparel, piece goods, & notions merchant wholesalers",11885.89655,29,0.001234596
+2018,Wholesale Trade,Grocery & related product merchant wholesalers,22117.05949,3446,0.146704096
+2018,Wholesale Trade,Farm product raw material merchant wholesalers,6479.043478,23,0.000979163
+2018,Wholesale Trade,Petroleum & petroleum products merchant wholesalers,29680.75,52,0.002213759
+2018,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers,45589.33333,12,0.000510867
+2018,Wholesale Trade,Wholesale electronic markets & agents & brokers,11724.01786,56,0.002384048
+2018,Wholesale Trade,Not specified wholesale trade,25543.74468,423,0.018008077
+2018,Retail Trade,Car Dealers,26452.98182,165,0.007024427
+2018,Retail Trade,Other motor vehicle dealers,40048.02326,43,0.001830608
+2018,Retail Trade,Furniture & home furnishings stores,25584.46199,684,0.029119443
+2018,Retail Trade,Electronics stores,38656.81579,76,0.003235494
+2018,Retail Trade,Hardware stores,21241.24,25,0.001064307
+2018,Retail Trade,Building material & supplies dealers,32006.36111,72,0.003065205
+2018,Retail Trade,Lawn & garden equipment & supplies stores,4760.916667,60,0.002554337
+2018,Retail Trade,Supermarkets and Other Grocery (except Convenience) Stores,19617.09905,49361,2.10141059
+2018,Retail Trade,Convenience Stores,17712.5512,8282,0.352583669
+2018,Retail Trade,Specialty food stores,18091.56486,6614,0.281573097
+2018,Retail Trade,"Beer, wine, & liquor stores ",15146.29825,114,0.004853241
+2018,Retail Trade,Pharmacies & drug stores,10866.28286,350,0.0149003
+2018,Retail Trade,Gasoline stations,15766.97725,17498,0.744929854
+2018,Retail Trade,Clothing stores,25077.57437,437,0.018604089
+2018,Retail Trade,Shoe stores,901.1666667,24,0.001021735
+2018,Retail Trade,"Sewing, needlework, & piece goods stores ",23347.3125,16,0.000681157
+2018,Retail Trade,Musical instrument & supplies stores,74287,7,0.000298006
+2018,Retail Trade,"Sporting goods, and hobby & toy stores ",19307.83299,491,0.020902992
+2018,Retail Trade,Book stores & news dealers,13368.59375,32,0.001362313
+2018,Retail Trade,Department stores,14374.1704,1385,0.058962616
+2018,Retail Trade,"General merchandise stores, including warehouse clubs and supercenters",18415.83776,5991,0.255050563
+2018,Retail Trade,"Gift, novelty, & souvenir shops",30997.73077,52,0.002213759
+2018,Retail Trade,Used merchandise stores,18306.4466,206,0.008769891
+2018,Retail Trade,Miscellaneous retail stores,6587.537954,303,0.012899403
+2018,Retail Trade,Electronic shopping and mail-order houses,12617.04242,165,0.007024427
+2018,Retail Trade,Vending machine operators,27791.85385,260,0.011068794
+2018,Retail Trade,Fuel dealers,18033,11,0.000468295
+2018,Retail Trade,Other direct selling establishments,7361.074074,27,0.001149452
+2018,Retail Trade,Not specified retail trade,27851.66042,1920,0.081738788
+2018,"Transportation & Warehousing, and Utilities","Electric power generation, transmission & distribution",15598.26891,238,0.010132204
+2018,"Transportation & Warehousing, and Utilities",Natural gas distribution,32629.21053,19,0.000808873
+2018,"Transportation & Warehousing, and Utilities",Air transportation,18787.12637,364,0.015496312
+2018,"Transportation & Warehousing, and Utilities",Rail transportation,72027.18699,123,0.005236391
+2018,"Transportation & Warehousing, and Utilities",Water transportation,41131.00702,855,0.036399304
+2018,"Transportation & Warehousing, and Utilities",Truck transportation,21428.47826,23,0.000979163
+2018,"Transportation & Warehousing, and Utilities",Bus service & urban transit,14736.90226,133,0.005662114
+2018,"Transportation & Warehousing, and Utilities",Pipeline transportation,26531.06667,15,0.000638584
+2018,"Transportation & Warehousing, and Utilities",Scenic & sightseeing transportation,22299.89177,462,0.019668396
+2018,"Transportation & Warehousing, and Utilities",Services incidental to transportation,22496.84591,1259,0.053598508
+2018,"Transportation & Warehousing, and Utilities",Couriers & messengers,17544.21739,138,0.005874975
+2018,"Transportation & Warehousing, and Utilities",Warehousing & storage,18523.50286,175,0.00745015
+2018,Information,"Periodical, book, & directory publishers",29149.68,50,0.002128614
+2018,Information,Motion pictures & video industries,15964.51844,2494,0.10617528
+2018,Information,Broadcasting (except internet),24099.80723,83,0.0035335
+2018,Information,"Telecommunications, except wired telecommunications carriers ",20449.86667,30,0.001277169
+2018,Information,"Data processing, hosting & related services",5179.222222,9,0.000383151
+2018,Information,Libraries & archives,9700,9,0.000383151
+2018,Information,"Internet publishing, broadcasting & web search portals",63537.64651,215,0.009153041
+2018,"Finance & Insurance, and Real Estate, Rental & Leasing","Savings institutions, including credit unions ",19664.08247,97,0.004129512
+2018,"Finance & Insurance, and Real Estate, Rental & Leasing",Nondepository credit & related activities,31385.88235,51,0.002171187
+2018,"Finance & Insurance, and Real Estate, Rental & Leasing",Insurance carriers,20908.83534,249,0.010600499
+2018,"Finance & Insurance, and Real Estate, Rental & Leasing","Agencies, brokerages, and other insurance related activities",27755.6087,46,0.001958325
+2018,"Finance & Insurance, and Real Estate, Rental & Leasing",Banking & related activities,15097.12069,174,0.007407578
+2018,"Finance & Insurance, and Real Estate, Rental & Leasing","Securities, commodities, funds, trusts & other financial investments",34634.79778,361,0.015368595
+2018,"Finance & Insurance, and Real Estate, Rental & Leasing","Real estate property managers, offices of real estate appraisers, and other activities related to real estate",19250.28625,538,0.02290389
+2018,"Finance & Insurance, and Real Estate, Rental & Leasing","Lessors of real estate, and offices of real estate agents and brokers",21593.2492,3126,0.133080965
+2018,"Finance & Insurance, and Real Estate, Rental & Leasing","Commercial, industrial & other intangible assets rental & leasing",8562.282609,46,0.001958325
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Legal services,27426.5,22,0.00093659
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services","Accounting, tax preparation, bookkeeping & payroll services",24815.34307,137,0.005832403
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services","Architectural, engineering & related services",17830.47059,102,0.004342373
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Specialized design services,66423.81818,11,0.000468295
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Computer Systems Design,29512,100,0.004257229
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services","Management, scientific & technical consulting services",32316.28696,115,0.004895813
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Scientific research & development services,16831.61765,170,0.007237289
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services","Advertising, public relations & related services",11523.32099,81,0.003448355
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services","Other professional, scientific & technical services ",27188.20455,88,0.003746361
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Management of companies & enterprises,39361.93103,203,0.008642174
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Employment services,12364.53066,3213,0.136784754
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Business support services,32738.16327,98,0.004172084
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Travel arrangements & reservation services,24348.72302,834,0.035505286
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Investigation & security services,14414.80628,191,0.008131307
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Services to buildings & dwellings (except cleaning during construction & immediately after construction),13224.21622,111,0.004725524
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Other administrative & other support services,20106.02614,153,0.00651356
+2018,"Professional, Scientific & Management, and Administrative & Waste Management Services",Waste management & remediation services,73633.75,40,0.001702891
+2018,"Educational Services, Health Care & Social Assistance",Elementary & secondary schools,16836.91862,141393,6.01942318
+2018,"Educational Services, Health Care & Social Assistance","Colleges, universities & professional schools, including junior colleges",17715.44032,22343,0.951192577
+2018,"Educational Services, Health Care & Social Assistance","Business, technical & trade schools and training",22063.03395,324,0.013793421
+2018,"Educational Services, Health Care & Social Assistance",Other schools & instruction and educational support services,17709.20903,842,0.035845864
+2018,"Educational Services, Health Care & Social Assistance",Offices of physicians,19428.78426,343,0.014602294
+2018,"Educational Services, Health Care & Social Assistance",Offices of chiropractors,17607.58182,55,0.002341476
+2018,"Educational Services, Health Care & Social Assistance",Offices of optometrists,14600.28125,96,0.004086939
+2018,"Educational Services, Health Care & Social Assistance",Offices of other health practitioners,16581.05229,306,0.013027119
+2018,"Educational Services, Health Care & Social Assistance",Outpatient care centers,23978.63471,2138,0.091019547
+2018,"Educational Services, Health Care & Social Assistance",Home health care services,17613.26545,2750,0.117073785
+2018,"Educational Services, Health Care & Social Assistance",Other health care services,24666.11218,1774,0.075523235
+2018,"Educational Services, Health Care & Social Assistance",Psychiatric and substance abuse hospitals,28172.2915,741,0.031546064
+2018,"Educational Services, Health Care & Social Assistance","General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",28365.08187,40222,1.712342472
+2018,"Educational Services, Health Care & Social Assistance",Nursing Care Facilities,21579.41655,55129,2.346967534
+2018,"Educational Services, Health Care & Social Assistance","Residential care facilities, except skilled nursing facilities",21654.56198,36727,1.563552334
+2018,"Educational Services, Health Care & Social Assistance",Individual & family services,17308.88083,9860,0.419762736
+2018,"Educational Services, Health Care & Social Assistance","Community food & housing, & emergency services ",19487.47287,2912,0.123970496
+2018,"Educational Services, Health Care & Social Assistance",Vocational rehabilitation services,16111.29702,771,0.032823232
+2018,"Educational Services, Health Care & Social Assistance",Child day care services,17545.93106,20060,0.854000049
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services",Performing arts companies,21521.22979,470,0.020008974
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services",Spectator sports,15151.42857,476,0.020264408
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services","Independent artists, writers, and performers",25535.44118,884,0.0376339
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services","Promoters of performing arts, sports, and similar events, agents and managers for artists, athletes, entertainers, and other public figures",13808.29829,1113,0.047382954
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services","Museums, art galleries, historical sites, & similar institutions",15136.3606,2249,0.09574507
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services",Bowling centers,14580.04509,4480,0.19072384
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services",Amusement & Recreation,23646.58826,47527,2.023333018
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services",Traveler accommodation,26343.14175,55279,2.353353376
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services",Recreational vehicle parks & camps and rooming & boarding houses,16063.10657,4063,0.172971196
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services","Drinking places, alcoholic beverages ",16781.9931,12180,0.518530439
+2018,"Arts, Entertainment & Recreation and Accommodation & Food Services",Restaurants & Food Services,17363.79034,1714173,72.97626254
+2018,"Other Services, Except Public Administration",Car washes,13484.16393,61,0.002596909
+2018,"Other Services, Except Public Administration",Commercial & industrial machinery & equipment repair & maintenance,2908.176471,85,0.003618644
+2018,"Other Services, Except Public Administration",Beauty salons,45928.2,15,0.000638584
+2018,"Other Services, Except Public Administration","Funeral homes, & cemeteries & crematories ",21099.34375,32,0.001362313
+2018,"Other Services, Except Public Administration",Drycleaning & laundry services,15736.38235,34,0.001447458
+2018,"Other Services, Except Public Administration",Other personal services,25167.74648,142,0.006045265
+2018,"Other Services, Except Public Administration",Religious organizations,16014.60945,4993,0.212563422
+2018,"Other Services, Except Public Administration",Labor unions,11254.90909,77,0.003278066
+2018,"Other Services, Except Public Administration","Business, professional, political, & similar organizations",20144.44715,123,0.005236391
+2018,"Other Services, Except Public Administration","Civic, social, advocacy organizations, & grantmaking & giving services",14022.15983,4999,0.212818856
+2018,"Other Services, Except Public Administration",Private households,32003.34671,3813,0.162328125
+2018,Public Administration,Public finance activities,21511.08333,48,0.00204347
+2018,Public Administration,Other general government & support,11360.8,15,0.000638584
+2018,Public Administration,Executive offices & legislative bodies,25041.92229,2342,0.099704293
+2018,Public Administration,Administration of human resource programs,27458.24101,1029,0.043806882
+2018,Public Administration,National security & international affairs,29346.19823,4510,0.192001008
+2018,Public Administration,Administration of environmental quality & housing programs,15951.04396,182,0.007748156
+2018,Public Administration,Administration of economic programs & space research,45333.71429,7,0.000298006
+2018,Public Administration,"Justice, public order, & safety activities ",31190.90636,5532,0.235509884
+2018,Active Duty Military,U. S. Army,29803.89697,2708,0.115285749
+2018,Active Duty Military,U. S. Air Force,22276.15084,358,0.015240878
+2018,Active Duty Military,U. S. Navy,30485.07679,3490,0.148577277
+2018,Active Duty Military,U. S. Marines,15994.86957,1334,0.056791429
+2018,Active Duty Military,U. S Coast Guard,53962.67293,266,0.011324228
+2018,Active Duty Military,U. S. Armed Forces: Branch Not Specified,5050.569697,165,0.007024427
+2018,Active Duty Military,Military Reserves or National Guard,24990.74627,67,0.002852343
+2017,"Agriculture, Forestry, Fishing and Hunting, and Mining",Farming,20616.23342,754,0.032291746
+2017,"Agriculture, Forestry, Fishing and Hunting, and Mining",Animal production & aquaculture,14522.89888,534,0.022869751
+2017,"Agriculture, Forestry, Fishing and Hunting, and Mining",Logging,20884.3125,16,0.000685236
+2017,"Agriculture, Forestry, Fishing and Hunting, and Mining","Fishing, hunting & trapping",10386.81452,248,0.010621158
+2017,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for agriculture & forestry,13778.64179,67,0.002869426
+2017,"Agriculture, Forestry, Fishing and Hunting, and Mining",Oil & gas extraction,31622.62162,111,0.004753825
+2017,"Agriculture, Forestry, Fishing and Hunting, and Mining",Metal ore mining,4117,6,0.000256963
+2017,"Agriculture, Forestry, Fishing and Hunting, and Mining",Nonmetallic mineral mining & quarrying,29735.25,4,0.000171309
+2017,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for mining,35104.16033,368,0.015760428
+2017,Construction,Construction,19888.47436,390,0.016702627
+2017,Manufacturing,Sugar & confectionery products,28344.53846,546,0.023383678
+2017,Manufacturing,Fruit & vegetable preserving & specialty food manufacturing,30675.91655,1402,0.060043804
+2017,Manufacturing,Dairy product manufacturing,42209.27362,307,0.013147966
+2017,Manufacturing,Animal slaughtering & processing,22617.77626,1171,0.050150709
+2017,Manufacturing,Retail bakeries,16071.35649,2620,0.112207394
+2017,Manufacturing,"Bakeries & tortilla manufacturing, except retail bakeries",16588.49064,1229,0.05263469
+2017,Manufacturing,"Animal food, grain & oilseed milling",18330.64901,151,0.006466915
+2017,Manufacturing,"Seafood & other miscellaneous foods, n.e.c. ",29660.47184,941,0.040300442
+2017,Manufacturing,"Not specified food industries, manufacturing",19590.39224,696,0.029807766
+2017,Manufacturing,Beverage manufacturing,27921.45631,927,0.03970086
+2017,Manufacturing,Tobacco manufacturing,50169.375,16,0.000685236
+2017,Manufacturing,Cut & sew apparel manufacturing,20948.875,104,0.004454034
+2017,Manufacturing,"Pulp, paper, & paperboard mills ",12309.0625,80,0.00342618
+2017,Manufacturing,Printing & related support activities,25731.41667,24,0.001027854
+2017,Manufacturing,Petroleum refining,37169,25,0.001070681
+2017,Manufacturing,Pharmaceutical & medicine manufacturing,24834.95,140,0.005995815
+2017,Manufacturing,Industrial & miscellaneous chemicals,29185.05128,39,0.001670263
+2017,Manufacturing,Plastics product manufacturing,26935.70833,24,0.001027854
+2017,Manufacturing,Glass & glass product manufacturing,12542.33333,3,0.000128482
+2017,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing,16161.40816,49,0.002098535
+2017,Manufacturing,Nonferrous metal (except aluminum) production & processing,5558,16,0.000685236
+2017,Manufacturing,Iron & steel mills & steel product manufacturing,88059,6,0.000256963
+2017,Manufacturing,Cutlery & hand tool manufacturing,25343,28,0.001199163
+2017,Manufacturing,"Machine shops; turned product; screw, nut & bolt manufacturing  ",18637.21429,28,0.001199163
+2017,Manufacturing,"Structural metals, & boiler, tank, & shipping container manufacturing ",32401.06061,33,0.001413299
+2017,Manufacturing,Miscellaneous fabricated metal products manufacturing,13163.25,84,0.003597489
+2017,Manufacturing,Agricultural implement manufacturing,10619.75,4,0.000171309
+2017,Manufacturing,"Machinery manufacturing, n.e.c. or not specified",19983.5625,64,0.002740944
+2017,Manufacturing,Computer & peripheral equipment manufacturing,38425.19048,42,0.001798744
+2017,Manufacturing,"Navigational, measuring, electromedical, & control instruments manufacturing",17557.93333,15,0.000642409
+2017,Manufacturing,"Electronic component & product manufacturing, n.e.c. ",22622.15217,46,0.001970053
+2017,Manufacturing,Household appliance manufacturing,12817.75,44,0.001884399
+2017,Manufacturing,"Electric lighting & electrical equipment manufacturing, & other electrical component manufacturing, n.e.c.",23331.26087,46,0.001970053
+2017,Manufacturing,Aircraft & parts manufacturing,20157.27692,65,0.002783771
+2017,Manufacturing,Aerospace products & parts manufacturing,19420.79167,24,0.001027854
+2017,Manufacturing,Ship & boat building,44492.65179,112,0.004796652
+2017,Manufacturing,Motor vehicles & motor vehicle equipment manufacturing,50974.6,10,0.000428272
+2017,Manufacturing,Furniture & related product manufacturing,21235,7,0.000299791
+2017,Manufacturing,Medical equipment & supplies manufacturing,22301.42857,7,0.000299791
+2017,Manufacturing,"Sporting & athletic goods, & doll, toy & game manufacturing  ",20223.78378,74,0.003169216
+2017,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ",32461.19828,232,0.009935922
+2017,Manufacturing,Not specified manufacturing industries,18265.92432,555,0.023769123
+2017,Wholesale Trade,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,19783.90361,83,0.003554662
+2017,Wholesale Trade,Furniture & home furnishing merchant wholesalers,20719.76923,13,0.000556754
+2017,Wholesale Trade,Professional & commercial equipment & supplies merchant wholesalers,55173.17073,82,0.003511834
+2017,Wholesale Trade,Household appliances & electrical & electronic goods merchant wholesalers,28407.5,30,0.001284817
+2017,Wholesale Trade,Paper & paper products merchant wholesalers,5309.833333,12,0.000513927
+2017,Wholesale Trade,"Apparel, piece goods, & notions merchant wholesalers",11603.06897,29,0.00124199
+2017,Wholesale Trade,Grocery & related product merchant wholesalers,21509.12,2975,0.127411067
+2017,Wholesale Trade,Farm product raw material merchant wholesalers,8663.511628,43,0.001841572
+2017,Wholesale Trade,Petroleum & petroleum products merchant wholesalers,30537.91111,45,0.001927226
+2017,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers,15262.74419,43,0.001841572
+2017,Wholesale Trade,Wholesale electronic markets & agents & brokers,11412.6,65,0.002783771
+2017,Wholesale Trade,Not specified wholesale trade,18549.03779,344,0.014732574
+2017,Retail Trade,Car Dealers,27140.49618,131,0.00561037
+2017,Retail Trade,Other motor vehicle dealers,38346.84091,44,0.001884399
+2017,Retail Trade,Furniture & home furnishings stores,26500.86606,657,0.028137503
+2017,Retail Trade,Household appliance stores,26549.27778,72,0.003083562
+2017,Retail Trade,Electronics stores,38784.76364,55,0.002355499
+2017,Retail Trade,Hardware stores,21125.25926,27,0.001156336
+2017,Retail Trade,Building material & supplies dealers,28397.04651,86,0.003683143
+2017,Retail Trade,Lawn & garden equipment & supplies stores,4809.736842,57,0.002441153
+2017,Retail Trade,Grocery Stores,18369.16457,57227,2.450875004
+2017,Retail Trade,Specialty food stores,17542.18293,6855,0.293580795
+2017,Retail Trade,"Beer, wine, & liquor stores ",13885.66275,255,0.010920949
+2017,Retail Trade,Pharmacies & drug stores,11121.06645,301,0.012891002
+2017,Retail Trade,Gasoline stations,14949.32052,16317,0.698812229
+2017,Retail Trade,Clothing stores,24849.57591,606,0.025953313
+2017,Retail Trade,Shoe stores,879.72,25,0.001070681
+2017,Retail Trade,"Sewing, needlework, & piece goods stores ",22791.76471,17,0.000728063
+2017,Retail Trade,Musical instrument & supplies stores,72519.16667,6,0.000256963
+2017,Retail Trade,"Sporting goods, and hobby & toy stores ",19367.29423,503,0.021542106
+2017,Retail Trade,Book stores & news dealers,8655.4,30,0.001284817
+2017,Retail Trade,Department stores & discount stores,15291.5202,3910,0.167454545
+2017,Retail Trade,Miscellaneous general merchandise stores,18370.33663,3440,0.147325738
+2017,Retail Trade,Retail florists,10619.71429,21,0.000899372
+2017,Retail Trade,"Gift, novelty, & souvenir shops",27947.9661,59,0.002526808
+2017,Retail Trade,Used merchandise stores,18694.97551,245,0.010492676
+2017,Retail Trade,Miscellaneous retail stores,8381.886243,378,0.0161887
+2017,Retail Trade,Mail-order houses,13304.01418,141,0.006038642
+2017,Retail Trade,Vending machine operators,25798.60905,243,0.010407022
+2017,Retail Trade,Fuel dealers,17603.81818,11,0.0004711
+2017,Retail Trade,Other direct selling establishments,13026.36232,69,0.00295508
+2017,Retail Trade,Not specified retail trade,23506.25983,1755,0.075161823
+2017,"Transportation & Warehousing, and Utilities","Electric power generation, transmission & distribution",21709.67778,270,0.011563357
+2017,"Transportation & Warehousing, and Utilities",Natural gas distribution,31855.5,20,0.000856545
+2017,"Transportation & Warehousing, and Utilities",Air transportation,20815.34845,419,0.017944618
+2017,"Transportation & Warehousing, and Utilities",Rail transportation,57308.26587,252,0.010792467
+2017,"Transportation & Warehousing, and Utilities",Water transportation,40017.65947,834,0.035717926
+2017,"Transportation & Warehousing, and Utilities",Truck transportation,16585.76543,81,0.003469007
+2017,"Transportation & Warehousing, and Utilities",Bus service & urban transit,13467.56688,157,0.006723878
+2017,"Transportation & Warehousing, and Utilities",Pipeline transportation,25899.73333,15,0.000642409
+2017,"Transportation & Warehousing, and Utilities",Scenic & sightseeing transportation,20085.04037,322,0.013790374
+2017,"Transportation & Warehousing, and Utilities",Services incidental to transportation,22246.8016,998,0.042741595
+2017,"Transportation & Warehousing, and Utilities",Couriers & messengers,13113.02646,189,0.00809435
+2017,"Transportation & Warehousing, and Utilities",Warehousing & storage,15538.37719,114,0.004882306
+2017,Information,"Periodical, book, & directory publishers",32125.92857,28,0.001199163
+2017,Information,Motion pictures & video industries,14474.73325,2313,0.099059428
+2017,Information,Broadcasting (except internet),35251.13793,116,0.004967961
+2017,Information,"Telecommunications, except wired telecommunications carriers ",19963.23333,30,0.001284817
+2017,Information,"Data processing, hosting & related services",5056,9,0.000385445
+2017,Information,Libraries & archives,9469.111111,9,0.000385445
+2017,Information,"Internet publishing, broadcasting & web search portals",65276.16355,214,0.009165031
+2017,"Finance & Insurance, and Real Estate, Rental & Leasing","Savings institutions, including credit unions ",18567.25275,91,0.00389728
+2017,"Finance & Insurance, and Real Estate, Rental & Leasing",Nondepository credit & related activities,30639.02083,48,0.002055708
+2017,"Finance & Insurance, and Real Estate, Rental & Leasing",Insurance carriers & related activities,20945.69776,268,0.011477703
+2017,"Finance & Insurance, and Real Estate, Rental & Leasing",Banking & related activities,22231.03614,83,0.003554662
+2017,"Finance & Insurance, and Real Estate, Rental & Leasing","Securities, commodities, funds, trusts & other financial investments",39572.78425,292,0.012505557
+2017,"Finance & Insurance, and Real Estate, Rental & Leasing",Real estate,21176.79161,3791,0.162358103
+2017,"Finance & Insurance, and Real Estate, Rental & Leasing","Commercial, industrial & other intangible assets rental & leasing",8122.946429,56,0.002398326
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Legal services,23150.74324,74,0.003169216
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services","Accounting, tax preparation, bookkeeping & payroll services",24336.47321,112,0.004796652
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services","Architectural, engineering & related services",16747.43119,109,0.00466817
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Specialized design services,64843.16667,12,0.000513927
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Computer Systems Design,28161.90323,93,0.003982934
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services","Management, scientific & technical consulting services",35201.95833,96,0.004111416
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Scientific research & development services,15196.66482,361,0.015460637
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services","Advertising, public relations & related services",11236.9,80,0.00342618
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services","Other professional, scientific & technical services ",29142.36,25,0.001070681
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Management of companies & enterprises,42668.46977,215,0.009207859
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Employment services,11917.60451,3057,0.130922902
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Business support services,31021.6699,103,0.004411207
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Travel arrangements & reservation services,26145.69127,962,0.041199814
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Investigation & security services,15492.74123,228,0.009764613
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Services to buildings & dwellings (except cleaning during construction & immediately after construction),7501.589147,129,0.005524715
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Other administrative & other support services,22102.39231,130,0.005567542
+2017,"Professional, Scientific & Management, and Administrative & Waste Management Services",Waste management & remediation services,71552.16667,42,0.001798744
+2017,"Educational Services, Health Care & Social Assistance",Elementary & secondary schools,15993.3675,142263,6.092732987
+2017,"Educational Services, Health Care & Social Assistance","Colleges, universities & professional schools, including junior colleges",16584.91925,21845,0.935561264
+2017,"Educational Services, Health Care & Social Assistance","Business, technical & trade schools and training",19310.29661,354,0.015160846
+2017,"Educational Services, Health Care & Social Assistance",Other schools & instruction and educational support services,18643.06617,937,0.040129133
+2017,"Educational Services, Health Care & Social Assistance",Offices of physicians,21182.77143,280,0.01199163
+2017,"Educational Services, Health Care & Social Assistance",Offices of dentists,12531.25,16,0.000685236
+2017,"Educational Services, Health Care & Social Assistance",Offices of chiropractors,17188.6,55,0.002355499
+2017,"Educational Services, Health Care & Social Assistance",Offices of optometrists,16289.46914,81,0.003469007
+2017,"Educational Services, Health Care & Social Assistance",Offices of other health practitioners,15787.21922,333,0.014261474
+2017,"Educational Services, Health Care & Social Assistance",Outpatient care centers,20361.47687,2399,0.102742571
+2017,"Educational Services, Health Care & Social Assistance",Home health care services,18500.42005,2314,0.099102255
+2017,"Educational Services, Health Care & Social Assistance",Other health care services,20880.15621,1466,0.062784748
+2017,"Educational Services, Health Care & Social Assistance",Hospitals,27165.63231,41366,1.771592
+2017,"Educational Services, Health Care & Social Assistance",Nursing Care Facilities,20740.82025,55356,2.37074522
+2017,"Educational Services, Health Care & Social Assistance","Residential care facilities, except skilled nursing facilities",20656.69602,37358,1.599940384
+2017,"Educational Services, Health Care & Social Assistance",Individual & family services,17275.48159,9288,0.397779493
+2017,"Educational Services, Health Care & Social Assistance","Community food & housing, & emergency services ",16899.88317,2799,0.119873471
+2017,"Educational Services, Health Care & Social Assistance",Vocational rehabilitation services,17232.12327,795,0.034047663
+2017,"Educational Services, Health Care & Social Assistance",Child day care services,17157.13623,20832,0.89217726
+2017,"Arts, Entertainment & Recreation and Accommodation & Food Services","Performing arts, spectator sports & related industries",17857.96433,3000,0.128481748
+2017,"Arts, Entertainment & Recreation and Accommodation & Food Services","Museums, art galleries, historical sites, & similar institutions",14366.71615,1913,0.081928528
+2017,"Arts, Entertainment & Recreation and Accommodation & Food Services",Bowling centers,14906.96859,4553,0.194992467
+2017,"Arts, Entertainment & Recreation and Accommodation & Food Services",Amusement & Recreation,21893.11349,47466,2.032838222
+2017,"Arts, Entertainment & Recreation and Accommodation & Food Services",Traveler accommodation,25924.35074,55472,2.375713181
+2017,"Arts, Entertainment & Recreation and Accommodation & Food Services",Recreational vehicle parks & camps and rooming & boarding houses,16550.56738,4163,0.178289839
+2017,"Arts, Entertainment & Recreation and Accommodation & Food Services","Drinking places, alcoholic beverages ",15982.97793,11736,0.502620599
+2017,"Arts, Entertainment & Recreation and Accommodation & Food Services",Restaurants & Food Services,16624.363,1702493,72.91309238
+2017,"Other Services, Except Public Administration",Commercial & industrial machinery & equipment repair & maintenance,2900.934066,91,0.00389728
+2017,"Other Services, Except Public Administration",Personal & household goods repair & maintenance,11681.70588,17,0.000728063
+2017,"Other Services, Except Public Administration",Beauty salons,607.5789474,19,0.000813718
+2017,"Other Services, Except Public Administration","Funeral homes, & cemeteries & crematories ",18920.58333,36,0.001541781
+2017,"Other Services, Except Public Administration",Drycleaning & laundry services,9615.785714,14,0.000599581
+2017,"Other Services, Except Public Administration",Other personal services,14687.66667,129,0.005524715
+2017,"Other Services, Except Public Administration",Religious organizations,15900.46168,5049,0.216234782
+2017,"Other Services, Except Public Administration",Labor unions,35615.52222,90,0.003854452
+2017,"Other Services, Except Public Administration","Business, professional, political, & similar organizations",17836.62963,135,0.005781679
+2017,"Other Services, Except Public Administration","Civic, social, advocacy organizations, & grantmaking & giving services",13962.44026,4779,0.204671425
+2017,"Other Services, Except Public Administration",Private households,30645.19366,3155,0.135119972
+2017,Public Administration,Public finance activities,22584.53333,45,0.001927226
+2017,Public Administration,Other general government & support,17489.07407,27,0.001156336
+2017,Public Administration,Executive offices & legislative bodies,25274.51089,2525,0.108138805
+2017,Public Administration,Administration of human resource programs,27185.11535,1231,0.052720344
+2017,Public Administration,National security & international affairs,28848.80043,5126,0.219532481
+2017,Public Administration,Administration of environmental quality & housing programs,19016.2069,87,0.003725971
+2017,Public Administration,Administration of economic programs & space research,28673.96875,64,0.002740944
+2017,Public Administration,"Justice, public order, & safety activities ",30304.73959,5357,0.229425575
+2017,Active Duty Military,U. S. Army,30019.16861,2313,0.099059428
+2017,Active Duty Military,U. S. Air Force,18643.40994,483,0.020685561
+2017,Active Duty Military,U. S. Navy,29687.23627,3259,0.139574006
+2017,Active Duty Military,U. S. Marines,11633.10415,989,0.04235615
+2017,Active Duty Military,U. S Coast Guard,53665.74897,243,0.010407022
+2017,Active Duty Military,U. S. Armed Forces: Branch Not Specified,17695.8125,32,0.001370472
+2017,Active Duty Military,Military Reserves or National Guard,31235.6087,46,0.001970053
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining",Farming,18660.89141,792,0.034209417
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining",Animal production & aquaculture,18231.54933,446,0.019264394
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining",Logging,13400.91667,12,0.000518324
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining","Fishing, hunting & trapping",10319.068,250,0.010798427
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for agriculture & forestry,13485.08696,69,0.002980366
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining",Oil & gas extraction,45819.21649,97,0.00418979
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining",Coal mining,38017.07143,28,0.001209424
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining",Metal ore mining,4030.333333,6,0.000259162
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining",Nonmetallic mineral mining & quarrying,29068.8,5,0.000215969
+2016,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for mining,40522.07048,454,0.019609944
+2016,Construction,Construction,19981.96078,357,0.015420154
+2016,Manufacturing,Sugar & confectionery products,25440.36522,460,0.019869106
+2016,Manufacturing,Fruit & vegetable preserving & specialty food manufacturing,29618.65375,1265,0.054640041
+2016,Manufacturing,Dairy product manufacturing,38443.27469,324,0.013994761
+2016,Manufacturing,Animal slaughtering & processing,22012.92844,1104,0.047685854
+2016,Manufacturing,Retail bakeries,16622.24073,2509,0.108373014
+2016,Manufacturing,"Bakeries & tortilla manufacturing, except retail bakeries",15361.48806,1340,0.057879569
+2016,Manufacturing,"Animal food, grain & oilseed milling",28386.71271,181,0.007818061
+2016,Manufacturing,"Seafood & other miscellaneous foods, n.e.c. ",26056.05568,862,0.037232976
+2016,Manufacturing,"Not specified food industries, manufacturing",21945.74734,752,0.032481669
+2016,Manufacturing,Beverage manufacturing,20631.46215,753,0.032524862
+2016,Manufacturing,Tobacco manufacturing,49072.4375,16,0.000691099
+2016,Manufacturing,Cut & sew apparel manufacturing,20760.90385,104,0.004492146
+2016,Manufacturing,"Pulp, paper, & paperboard mills ",34911.375,16,0.000691099
+2016,Manufacturing,Printing & related support activities,22043.75,28,0.001209424
+2016,Manufacturing,Petroleum refining,36335.96154,26,0.001123036
+2016,Manufacturing,Pharmaceutical & medicine manufacturing,24280.45968,124,0.00535602
+2016,Manufacturing,Industrial & miscellaneous chemicals,28727.825,40,0.001727748
+2016,Manufacturing,Plastics product manufacturing,26361.83333,24,0.001036649
+2016,Manufacturing,Glass & glass product manufacturing,12268,2,8.63874E-05
+2016,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing,15817.09434,53,0.002289267
+2016,Manufacturing,Nonferrous metal (except aluminum) production & processing,5441,16,0.000691099
+2016,Manufacturing,Iron & steel mills & steel product manufacturing,86182.8,5,0.000215969
+2016,Manufacturing,Cutlery & hand tool manufacturing,24823.31034,29,0.001252618
+2016,Manufacturing,"Machine shops; turned product; screw, nut & bolt manufacturing  ",18239.42857,28,0.001209424
+2016,Manufacturing,Ordnance,38017.0625,16,0.000691099
+2016,Manufacturing,"Structural metals, & boiler, tank, & shipping container manufacturing ",31692.59459,37,0.001598167
+2016,Manufacturing,Miscellaneous fabricated metal products manufacturing,13167.53571,84,0.003628271
+2016,Manufacturing,Agricultural implement manufacturing,10381.66667,3,0.000129581
+2016,Manufacturing,"Machinery manufacturing, n.e.c. or not specified",19433.12963,54,0.00233246
+2016,Manufacturing,Computer & peripheral equipment manufacturing,30582.62667,75,0.003239528
+2016,Manufacturing,"Navigational, measuring, electromedical, & control instruments manufacturing",16545.875,16,0.000691099
+2016,Manufacturing,"Electronic component & product manufacturing, n.e.c. ",14465.65278,72,0.003109947
+2016,Manufacturing,Household appliance manufacturing,12922.79167,48,0.002073298
+2016,Manufacturing,"Electric lighting & electrical equipment manufacturing, & other electrical component manufacturing, n.e.c.",19745.7931,58,0.002505235
+2016,Manufacturing,Aircraft & parts manufacturing,19670.81132,53,0.002289267
+2016,Manufacturing,Aerospace products & parts manufacturing,52819.80556,36,0.001554973
+2016,Manufacturing,Ship & boat building,43667.27826,115,0.004967276
+2016,Manufacturing,Motor vehicles & motor vehicle equipment manufacturing,19384.96667,30,0.001295811
+2016,Manufacturing,Medical equipment & supplies manufacturing,11234.73333,30,0.001295811
+2016,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ",29377.65289,242,0.010452877
+2016,Manufacturing,Not specified manufacturing industries,16747.82679,560,0.024188477
+2016,Wholesale Trade,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,14980.56557,122,0.005269632
+2016,Wholesale Trade,Furniture & home furnishing merchant wholesalers,20278.30769,13,0.000561518
+2016,Wholesale Trade,Professional & commercial equipment & supplies merchant wholesalers,54067.36047,86,0.003714659
+2016,Wholesale Trade,Household appliances & electrical & electronic goods merchant wholesalers,27809.43333,30,0.001295811
+2016,Wholesale Trade,"Machinery, equipment, & supplies merchant wholesalers     ",31680.90476,21,0.000907068
+2016,Wholesale Trade,Paper & paper products merchant wholesalers,5190.846154,13,0.000561518
+2016,Wholesale Trade,"Apparel, piece goods, & notions merchant wholesalers",11355.86667,30,0.001295811
+2016,Wholesale Trade,Grocery & related product merchant wholesalers,20071.3192,3302,0.142625625
+2016,Wholesale Trade,Farm product raw material merchant wholesalers,5072.341772,79,0.003412303
+2016,Wholesale Trade,Petroleum & petroleum products merchant wholesalers,39706.75,8,0.00034555
+2016,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers,14995.80556,36,0.001554973
+2016,Wholesale Trade,Wholesale electronic markets & agents & brokers,9644,49,0.002116492
+2016,Wholesale Trade,Not specified wholesale trade,18107.99664,298,0.012871725
+2016,Retail Trade,Car Dealers,26517.2349,149,0.006435863
+2016,Retail Trade,Other motor vehicle dealers,37341.90698,43,0.001857329
+2016,Retail Trade,Furniture & home furnishings stores,26521.48764,445,0.0192212
+2016,Retail Trade,Household appliance stores,25954.25,68,0.002937172
+2016,Retail Trade,Electronics stores,40404.01887,53,0.002289267
+2016,Retail Trade,Hardware stores,20115.68,25,0.001079843
+2016,Retail Trade,Building material & supplies dealers,24068.12397,121,0.005226439
+2016,Retail Trade,Lawn & garden equipment & supplies stores,5357.688312,77,0.003325916
+2016,Retail Trade,Grocery Stores,17709.19111,56126,2.424290068
+2016,Retail Trade,Specialty food stores,16688.69725,6834,0.295185802
+2016,Retail Trade,"Beer, wine, & liquor stores ",12415.61053,190,0.008206805
+2016,Retail Trade,Pharmacies & drug stores,13133.9,260,0.011230364
+2016,Retail Trade,Gasoline stations,14892.45992,15257,0.659006406
+2016,Retail Trade,Clothing stores,24452.26476,525,0.022676697
+2016,Retail Trade,"Sewing, needlework, & piece goods stores ",22306.125,16,0.000691099
+2016,Retail Trade,Musical instrument & supplies stores,70974.16667,6,0.000259162
+2016,Retail Trade,"Sporting goods, and hobby & toy stores ",18198.64437,613,0.026477743
+2016,Retail Trade,Book stores & news dealers,8322.291667,48,0.002073298
+2016,Retail Trade,Department stores & discount stores,15705.5268,4478,0.193421425
+2016,Retail Trade,Miscellaneous general merchandise stores,16828.02388,3475,0.150098136
+2016,Retail Trade,Retail florists,10381.71429,21,0.000907068
+2016,Retail Trade,"Gift, novelty, & souvenir shops",23705.39437,71,0.003066753
+2016,Retail Trade,Used merchandise stores,17773.32852,277,0.011964657
+2016,Retail Trade,Miscellaneous retail stores,8651.23125,320,0.013821987
+2016,Retail Trade,Electronic shopping,35905.04167,24,0.001036649
+2016,Retail Trade,Mail-order houses,13019.57265,117,0.005053664
+2016,Retail Trade,Vending machine operators,20460,401,0.017320677
+2016,Retail Trade,Other direct selling establishments,12362.31343,67,0.002893978
+2016,Retail Trade,Not specified retail trade,15003.76438,1634,0.070578519
+2016,"Transportation & Warehousing, and Utilities","Electric power generation, transmission & distribution",21685.65613,253,0.010928008
+2016,"Transportation & Warehousing, and Utilities",Natural gas distribution,31184.85,20,0.000863874
+2016,"Transportation & Warehousing, and Utilities","Electric & gas, and other combinations",29146.42857,28,0.001209424
+2016,"Transportation & Warehousing, and Utilities",Air transportation,28484.72853,361,0.015592929
+2016,"Transportation & Warehousing, and Utilities",Rail transportation,55104.184,250,0.010798427
+2016,"Transportation & Warehousing, and Utilities",Water transportation,41520.94315,774,0.03343193
+2016,"Transportation & Warehousing, and Utilities",Truck transportation,15509.31081,74,0.003196334
+2016,"Transportation & Warehousing, and Utilities",Bus service & urban transit,13422.92617,149,0.006435863
+2016,"Transportation & Warehousing, and Utilities",Pipeline transportation,25347.88235,17,0.000734293
+2016,"Transportation & Warehousing, and Utilities",Scenic & sightseeing transportation,20846.79197,274,0.011835076
+2016,"Transportation & Warehousing, and Utilities",Services incidental to transportation,20773.71888,964,0.041638735
+2016,"Transportation & Warehousing, and Utilities",Couriers & messengers,11687.32886,149,0.006435863
+2016,"Transportation & Warehousing, and Utilities",Warehousing & storage,10461.7963,54,0.00233246
+2016,Information,"Periodical, book, & directory publishers",32138.65517,29,0.001252618
+2016,Information,Motion pictures & video industries,16537.17748,2327,0.100511759
+2016,Information,Broadcasting (except internet),39981.61765,68,0.002937172
+2016,Information,"Telecommunications, except wired telecommunications carriers ",20638.42017,119,0.005140051
+2016,Information,Libraries & archives,9269.8,10,0.000431937
+2016,Information,"Internet publishing, broadcasting & web search portals",68262.2381,168,0.007256543
+2016,Information,"Other information services, except libraries & archives, & internet publishing & broadcasting & web search portals",5174.555556,18,0.000777487
+2016,"Finance & Insurance, and Real Estate, Rental & Leasing","Savings institutions, including credit unions ",3067.035714,28,0.001209424
+2016,"Finance & Insurance, and Real Estate, Rental & Leasing",Insurance carriers & related activities,22691.1291,457,0.019739525
+2016,"Finance & Insurance, and Real Estate, Rental & Leasing",Banking & related activities,20185.92857,84,0.003628271
+2016,"Finance & Insurance, and Real Estate, Rental & Leasing","Securities, commodities, funds, trusts & other financial investments",39089.85172,290,0.012526175
+2016,"Finance & Insurance, and Real Estate, Rental & Leasing",Real estate,21726.85479,4063,0.175496037
+2016,"Finance & Insurance, and Real Estate, Rental & Leasing","Commercial, industrial & other intangible assets rental & leasing",6134.068966,29,0.001252618
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Legal services,18336.18261,115,0.004967276
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services","Accounting, tax preparation, bookkeeping & payroll services",23773.65789,114,0.004924083
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services","Architectural, engineering & related services",15358.22143,140,0.006047119
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Specialized design services,22122.32967,91,0.003930627
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Computer Systems Design,29606.49296,142,0.006133507
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services","Management, scientific & technical consulting services",36370.45455,88,0.003801046
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Scientific research & development services,13933.75,328,0.014167536
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services","Advertising, public relations & related services",11090.23457,81,0.00349869
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services","Other professional, scientific & technical services ",29511.16,25,0.001079843
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Management of companies & enterprises,29317.4375,144,0.006219894
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Employment services,11480.79294,2888,0.124743429
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Business support services,28465.85882,170,0.00734293
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Travel arrangements & reservation services,24206.87629,1358,0.058657056
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Investigation & security services,16413.72249,209,0.009027485
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Services to buildings & dwellings (except cleaning during construction & immediately after construction),7276.864662,133,0.005744763
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Other administrative & other support services,22801.40244,82,0.003541884
+2016,"Professional, Scientific & Management, and Administrative & Waste Management Services",Waste management & remediation services,69538.7561,41,0.001770942
+2016,"Educational Services, Health Care & Social Assistance",Elementary & secondary schools,15449.78611,143235,6.186850799
+2016,"Educational Services, Health Care & Social Assistance","Colleges, universities & professional schools, including junior colleges",16259.59744,22260,0.961491945
+2016,"Educational Services, Health Care & Social Assistance","Business, technical & trade schools and training",16066.90657,396,0.017104708
+2016,"Educational Services, Health Care & Social Assistance",Other schools & instruction and educational support services,17510.34542,1158,0.050018314
+2016,"Educational Services, Health Care & Social Assistance",Offices of physicians,20264.23358,274,0.011835076
+2016,"Educational Services, Health Care & Social Assistance",Offices of dentists,12250.41176,17,0.000734293
+2016,"Educational Services, Health Care & Social Assistance",Offices of chiropractors,16826.72059,68,0.002937172
+2016,"Educational Services, Health Care & Social Assistance",Offices of optometrists,16319.97647,85,0.003671465
+2016,"Educational Services, Health Care & Social Assistance",Offices of other health practitioners,16609.50916,273,0.011791882
+2016,"Educational Services, Health Care & Social Assistance",Outpatient care centers,19531.66165,2128,0.091916211
+2016,"Educational Services, Health Care & Social Assistance",Home health care services,18025.50844,2014,0.086992128
+2016,"Educational Services, Health Care & Social Assistance",Other health care services,21401.77636,2504,0.108157045
+2016,"Educational Services, Health Care & Social Assistance",Hospitals,26337.67605,41077,1.774267953
+2016,"Educational Services, Health Care & Social Assistance",Nursing Care Facilities,20055.23444,54448,2.351811026
+2016,"Educational Services, Health Care & Social Assistance","Residential care facilities, except skilled nursing facilities",19929.95643,36543,1.57842768
+2016,"Educational Services, Health Care & Social Assistance",Individual & family services,16441.04437,8879,0.383516935
+2016,"Educational Services, Health Care & Social Assistance","Community food & housing, & emergency services ",15122.18836,3111,0.134375626
+2016,"Educational Services, Health Care & Social Assistance",Vocational rehabilitation services,16892.19956,912,0.039392662
+2016,"Educational Services, Health Care & Social Assistance",Child day care services,17170.15186,21474,0.927541691
+2016,"Arts, Entertainment & Recreation and Accommodation & Food Services","Performing arts, spectator sports & related industries",12951.95393,2974,0.128458088
+2016,"Arts, Entertainment & Recreation and Accommodation & Food Services","Museums, art galleries, historical sites, & similar institutions",15245.03206,1622,0.070060195
+2016,"Arts, Entertainment & Recreation and Accommodation & Food Services",Bowling centers,13740.27354,4460,0.192643939
+2016,"Arts, Entertainment & Recreation and Accommodation & Food Services",Amusement & Recreation,20919.63958,46978,2.029154025
+2016,"Arts, Entertainment & Recreation and Accommodation & Food Services",Traveler accommodation,25277.36112,55586,2.400965466
+2016,"Arts, Entertainment & Recreation and Accommodation & Food Services",Recreational vehicle parks & camps and rooming & boarding houses,17025.06401,3984,0.172083734
+2016,"Arts, Entertainment & Recreation and Accommodation & Food Services","Drinking places, alcoholic beverages ",16030.13236,11469,0.49538864
+2016,"Arts, Entertainment & Recreation and Accommodation & Food Services",Restaurants & Food Services,15957.40027,1683601,72.72097037
+2016,"Other Services, Except Public Administration",Car washes,19008.53659,41,0.001770942
+2016,"Other Services, Except Public Administration",Commercial & industrial machinery & equipment repair & maintenance,12779.25,8,0.00034555
+2016,"Other Services, Except Public Administration",Personal & household goods repair & maintenance,11419.88235,17,0.000734293
+2016,"Other Services, Except Public Administration",Beauty salons,594,19,0.00082068
+2016,"Other Services, Except Public Administration","Funeral homes, & cemeteries & crematories ",20654.4375,32,0.001382199
+2016,"Other Services, Except Public Administration",Drycleaning & laundry services,9405.533333,15,0.000647906
+2016,"Other Services, Except Public Administration",Other personal services,10418.24,75,0.003239528
+2016,"Other Services, Except Public Administration",Religious organizations,15471.26165,5236,0.226162256
+2016,"Other Services, Except Public Administration",Labor unions,34311.05435,92,0.003973821
+2016,"Other Services, Except Public Administration","Business, professional, political, & similar organizations",16974.81538,130,0.005615182
+2016,"Other Services, Except Public Administration","Civic, social, advocacy organizations, & grantmaking & giving services",14579.2975,4874,0.210526134
+2016,"Other Services, Except Public Administration",Private households,30856.90779,3297,0.142409656
+2016,Public Administration,Public finance activities,22103.3617,47,0.002030104
+2016,Public Administration,Other general government & support,17597.3913,46,0.001986911
+2016,Public Administration,Executive offices & legislative bodies,21504.21946,2415,0.104312805
+2016,Public Administration,Administration of human resource programs,25414.20362,1272,0.054942397
+2016,Public Administration,National security & international affairs,28070.41822,5576,0.240848117
+2016,Public Administration,Administration of environmental quality & housing programs,20393.58209,67,0.002893978
+2016,Public Administration,Administration of economic programs & space research,22705.62687,67,0.002893978
+2016,Public Administration,"Justice, public order, & safety activities ",30911.83527,5840,0.252251256
+2016,Active Duty Military,U. S. Army,29236.00383,2351,0.101548408
+2016,Active Duty Military,U. S. Air Force,16421.34204,421,0.018184551
+2016,Active Duty Military,U. S. Navy,31139.24582,3047,0.131611229
+2016,Active Duty Military,U. S. Marines,11525.60899,1046,0.045180619
+2016,Active Duty Military,U. S Coast Guard,42483.34127,378,0.016327222
+2016,Active Duty Military,U. S. Armed Forces: Branch Not Specified,27456.8,5,0.000215969
+2016,Active Duty Military,Military Reserves or National Guard,30095.33824,68,0.002937172
+2015,"Agriculture, Forestry, Fishing and Hunting, and Mining",Farming,16086.84647,736,0.032297091
+2015,"Agriculture, Forestry, Fishing and Hunting, and Mining",Animal production & aquaculture,19718.53403,573,0.025144339
+2015,"Agriculture, Forestry, Fishing and Hunting, and Mining","Fishing, hunting & trapping",11286.2518,278,0.012199173
+2015,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for agriculture & forestry,13316.81356,59,0.002589033
+2015,"Agriculture, Forestry, Fishing and Hunting, and Mining",Oil & gas extraction,44949.42157,102,0.004475956
+2015,"Agriculture, Forestry, Fishing and Hunting, and Mining",Coal mining,37542.66667,27,0.001184812
+2015,"Agriculture, Forestry, Fishing and Hunting, and Mining",Nonmetallic mineral mining & quarrying,28706,4,0.000175528
+2015,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for mining,42727.86059,538,0.023608471
+2015,Construction,Construction,16321.51989,352,0.015446435
+2015,Manufacturing,Sugar & confectionery products,27036.03512,484,0.021238848
+2015,Manufacturing,Fruit & vegetable preserving & specialty food manufacturing,28199.60152,1187,0.052087836
+2015,Manufacturing,Dairy product manufacturing,36338.99203,251,0.011014361
+2015,Manufacturing,Animal slaughtering & processing,20033.19186,1204,0.052833828
+2015,Manufacturing,Retail bakeries,14989.79095,2454,0.107686225
+2015,Manufacturing,"Bakeries & tortilla manufacturing, except retail bakeries",14243.27794,1691,0.074204322
+2015,Manufacturing,"Animal food, grain & oilseed milling",28914.16766,167,0.00732828
+2015,Manufacturing,"Seafood & other miscellaneous foods, n.e.c. ",25027.90974,986,0.04326757
+2015,Manufacturing,"Not specified food industries, manufacturing",22484.9915,706,0.030980634
+2015,Manufacturing,Beverage manufacturing,23063.98628,583,0.025583158
+2015,Manufacturing,Tobacco manufacturing,48460.05882,17,0.000745993
+2015,Manufacturing,Cut & sew apparel manufacturing,20360.65049,103,0.004519837
+2015,Manufacturing,"Pulp, paper, & paperboard mills ",30242.6,5,0.00021941
+2015,Manufacturing,Printing & related support activities,3128.5,4,0.000175528
+2015,Manufacturing,Petroleum refining,35882.52,25,0.001097048
+2015,Manufacturing,Pharmaceutical & medicine manufacturing,25046.97196,214,0.00939073
+2015,Manufacturing,Industrial & miscellaneous chemicals,28243.7561,41,0.001799159
+2015,Manufacturing,Plastics product manufacturing,26032.84615,26,0.00114093
+2015,Manufacturing,Glass & glass product manufacturing,12115,2,8.77638E-05
+2015,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing,15619.71698,53,0.002325742
+2015,Manufacturing,Iron & steel mills & steel product manufacturing,85107.5,6,0.000263292
+2015,Manufacturing,Cutlery & hand tool manufacturing,25031.61905,21,0.00092152
+2015,Manufacturing,"Machine shops; turned product; screw, nut & bolt manufacturing  ",18006.93103,29,0.001272576
+2015,Manufacturing,Ordnance,37542.66667,18,0.000789875
+2015,Manufacturing,"Structural metals, & boiler, tank, & shipping container manufacturing ",34783.33333,51,0.002237978
+2015,Manufacturing,Miscellaneous fabricated metal products manufacturing,12951.0122,82,0.003598317
+2015,Manufacturing,Agricultural implement manufacturing,10252,3,0.000131646
+2015,Manufacturing,"Machinery manufacturing, n.e.c. or not specified",24928.44444,45,0.001974686
+2015,Manufacturing,Computer & peripheral equipment manufacturing,30552.3125,64,0.002808443
+2015,Manufacturing,"Navigational, measuring, electromedical, & control instruments manufacturing",16950.2,15,0.000658229
+2015,Manufacturing,"Electronic component & product manufacturing, n.e.c. ",20969.38983,118,0.005178066
+2015,Manufacturing,Household appliance manufacturing,11612.86585,82,0.003598317
+2015,Manufacturing,"Electric lighting & electrical equipment manufacturing, & other electrical component manufacturing, n.e.c.",16209.68293,82,0.003598317
+2015,Manufacturing,Aircraft & parts manufacturing,18339.5092,163,0.007152753
+2015,Manufacturing,Aerospace products & parts manufacturing,55174.70588,34,0.001491985
+2015,Manufacturing,Ship & boat building,43194.13675,117,0.005134184
+2015,Manufacturing,Motor vehicles & motor vehicle equipment manufacturing,82996.89063,128,0.005616885
+2015,Manufacturing,Medical equipment & supplies manufacturing,11094.5,30,0.001316458
+2015,Manufacturing,"Sporting & athletic goods, & doll, toy & game manufacturing  ",14486.72727,11,0.000482701
+2015,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ",27805.8303,165,0.007240516
+2015,Manufacturing,Not specified manufacturing industries,14858.26766,538,0.023608471
+2015,Wholesale Trade,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,14731.11382,123,0.005397476
+2015,Wholesale Trade,Furniture & home furnishing merchant wholesalers,20025.30769,13,0.000570465
+2015,Wholesale Trade,Professional & commercial equipment & supplies merchant wholesalers,53700.14943,87,0.003817727
+2015,Wholesale Trade,"Machinery, equipment, & supplies merchant wholesalers     ",31285.57143,21,0.00092152
+2015,Wholesale Trade,Paper & paper products merchant wholesalers,5126.076923,13,0.000570465
+2015,Wholesale Trade,"Apparel, piece goods, & notions merchant wholesalers",11214.15625,32,0.001404221
+2015,Wholesale Trade,Grocery & related product merchant wholesalers,19904.77256,2959,0.129846593
+2015,Wholesale Trade,Farm product raw material merchant wholesalers,5026.256098,82,0.003598317
+2015,Wholesale Trade,Petroleum & petroleum products merchant wholesalers,39211.25,8,0.000351055
+2015,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers,14808.66667,36,0.001579749
+2015,Wholesale Trade,Wholesale electronic markets & agents & brokers,10607.79412,34,0.001491985
+2015,Wholesale Trade,Not specified wholesale trade,16203.9276,221,0.009697904
+2015,Retail Trade,Car Dealers,20185.22449,147,0.006450642
+2015,Retail Trade,Other motor vehicle dealers,40681.5,38,0.001667513
+2015,Retail Trade,Furniture & home furnishings stores,25192.55633,577,0.025319866
+2015,Retail Trade,Household appliance stores,20980.91667,96,0.004212664
+2015,Retail Trade,Electronics stores,32674.5,34,0.001491985
+2015,Retail Trade,Hardware stores,16020.18182,11,0.000482701
+2015,Retail Trade,Building material & supplies dealers,15611.28125,64,0.002808443
+2015,Retail Trade,Lawn & garden equipment & supplies stores,6440.318182,88,0.003861609
+2015,Retail Trade,Grocery Stores,16973.32265,54976,2.412452284
+2015,Retail Trade,Specialty food stores,16779.22088,7511,0.329597081
+2015,Retail Trade,"Beer, wine, & liquor stores ",12436.79147,211,0.009259085
+2015,Retail Trade,Pharmacies & drug stores,12508.8289,263,0.011540944
+2015,Retail Trade,Gasoline stations,13596.07622,14196,0.622947698
+2015,Retail Trade,Clothing stores,22869.66051,433,0.01900087
+2015,Retail Trade,"Sewing, needlework, & piece goods stores ",22027.8125,16,0.000702111
+2015,Retail Trade,Musical instrument & supplies stores,70088.5,8,0.000351055
+2015,Retail Trade,"Sporting goods, and hobby & toy stores ",19119.87375,499,0.021897077
+2015,Retail Trade,Book stores & news dealers,8136.770833,48,0.002106332
+2015,Retail Trade,Department stores & discount stores,15457.81502,5114,0.224412125
+2015,Retail Trade,Miscellaneous general merchandise stores,17301.16447,3715,0.163021323
+2015,Retail Trade,Retail florists,10252.15,20,0.000877638
+2015,Retail Trade,"Gift, novelty, & souvenir shops",15428.35385,65,0.002852325
+2015,Retail Trade,Used merchandise stores,14610.43162,234,0.010268369
+2015,Retail Trade,Miscellaneous retail stores,8448.432749,342,0.015007616
+2015,Retail Trade,Electronic shopping,35456.96154,26,0.00114093
+2015,Retail Trade,Mail-order houses,11855.40769,130,0.005704649
+2015,Retail Trade,Vending machine operators,19079.7948,346,0.015183143
+2015,Retail Trade,Other direct selling establishments,13816.89189,74,0.003247262
+2015,Retail Trade,Not specified retail trade,14182.93411,1639,0.071922462
+2015,"Transportation & Warehousing, and Utilities","Electric power generation, transmission & distribution",25548.57229,166,0.007284398
+2015,"Transportation & Warehousing, and Utilities","Electric & gas, and other combinations",28782.71429,28,0.001228694
+2015,"Transportation & Warehousing, and Utilities",Air transportation,28949.78107,338,0.014832088
+2015,"Transportation & Warehousing, and Utilities",Rail transportation,53919.05809,241,0.010575542
+2015,"Transportation & Warehousing, and Utilities",Water transportation,39249.81302,722,0.031682744
+2015,"Transportation & Warehousing, and Utilities",Truck transportation,14353.01695,59,0.002589033
+2015,"Transportation & Warehousing, and Utilities",Bus service & urban transit,15521.38012,171,0.007503808
+2015,"Transportation & Warehousing, and Utilities",Pipeline transportation,25031.58333,24,0.001053166
+2015,"Transportation & Warehousing, and Utilities",Scenic & sightseeing transportation,14464.83333,60,0.002632915
+2015,"Transportation & Warehousing, and Utilities",Services incidental to transportation,21140.46799,859,0.037694567
+2015,"Transportation & Warehousing, and Utilities",Couriers & messengers,10485.72449,98,0.004300428
+2015,"Transportation & Warehousing, and Utilities",Warehousing & storage,15681.76415,106,0.004651483
+2015,Information,Newspaper publishers,34339,10,0.000438819
+2015,Information,"Periodical, book, & directory publishers",32942.18367,49,0.002150214
+2015,Information,Motion pictures & video industries,17212.51892,1929,0.084648218
+2015,Information,Broadcasting (except internet),61512.90625,32,0.001404221
+2015,Information,"Telecommunications, except wired telecommunications carriers ",20394.95413,109,0.004783129
+2015,Information,"Internet publishing, broadcasting & web search portals",62021.55056,178,0.007810981
+2015,Information,"Other information services, except libraries & archives, & internet publishing & broadcasting & web search portals",5109.95,20,0.000877638
+2015,"Finance & Insurance, and Real Estate, Rental & Leasing","Savings institutions, including credit unions ",3028.766667,30,0.001316458
+2015,"Finance & Insurance, and Real Estate, Rental & Leasing",Insurance carriers & related activities,22603.53409,528,0.023169652
+2015,"Finance & Insurance, and Real Estate, Rental & Leasing",Banking & related activities,32265.08108,37,0.001623631
+2015,"Finance & Insurance, and Real Estate, Rental & Leasing","Securities, commodities, funds, trusts & other financial investments",21992.40244,164,0.007196634
+2015,"Finance & Insurance, and Real Estate, Rental & Leasing",Real estate,21290.73009,4157,0.18241713
+2015,"Finance & Insurance, and Real Estate, Rental & Leasing","Commercial, industrial & other intangible assets rental & leasing",6057.517241,29,0.001272576
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Legal services,17913.98276,116,0.005090302
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services","Accounting, tax preparation, bookkeeping & payroll services",22715.1791,134,0.005880177
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services","Architectural, engineering & related services",15241.13971,136,0.005967941
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Specialized design services,26366.21,100,0.004388192
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Computer Systems Design,30199.04098,122,0.005353594
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services","Management, scientific & technical consulting services",52526.94805,77,0.003378908
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Scientific research & development services,18420.50456,329,0.014437151
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services","Advertising, public relations & related services",13309.10638,47,0.00206245
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services","Other professional, scientific & technical services ",19118.55556,36,0.001579749
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Management of companies & enterprises,28122.09146,164,0.007196634
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Employment services,12891.55314,2437,0.106940232
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Business support services,23076.70879,182,0.007986509
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Travel arrangements & reservation services,23722.69602,1635,0.071746935
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Investigation & security services,16413.95434,219,0.00961014
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Services to buildings & dwellings (except cleaning during construction & immediately after construction),5588.694737,95,0.004168782
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Other administrative & other support services,20726.1358,81,0.003554435
+2015,"Professional, Scientific & Management, and Administrative & Waste Management Services",Waste management & remediation services,29399.08333,48,0.002106332
+2015,"Educational Services, Health Care & Social Assistance",Elementary & secondary schools,14959.21814,143342,6.290121785
+2015,"Educational Services, Health Care & Social Assistance","Colleges, universities & professional schools, including junior colleges",15842.67888,23253,1.020386222
+2015,"Educational Services, Health Care & Social Assistance","Business, technical & trade schools and training",12088.40512,469,0.020580619
+2015,"Educational Services, Health Care & Social Assistance",Other schools & instruction and educational support services,18086.18513,1237,0.054281932
+2015,"Educational Services, Health Care & Social Assistance",Offices of physicians,20324.55909,220,0.009654022
+2015,"Educational Services, Health Care & Social Assistance",Offices of dentists,12097.52941,17,0.000745993
+2015,"Educational Services, Health Care & Social Assistance",Offices of optometrists,16093.18919,74,0.003247262
+2015,"Educational Services, Health Care & Social Assistance",Offices of other health practitioners,16380.17329,277,0.012155291
+2015,"Educational Services, Health Care & Social Assistance",Outpatient care centers,20233.64394,2039,0.089475229
+2015,"Educational Services, Health Care & Social Assistance",Home health care services,16822.36987,2071,0.090879451
+2015,"Educational Services, Health Care & Social Assistance",Other health care services,23096.29003,2910,0.127696379
+2015,"Educational Services, Health Care & Social Assistance",Hospitals,25703.04555,39844,1.748431112
+2015,"Educational Services, Health Care & Social Assistance",Nursing Care Facilities,19576.19762,55879,2.452077655
+2015,"Educational Services, Health Care & Social Assistance","Residential care facilities, except skilled nursing facilities",19815.23928,34921,1.532400433
+2015,"Educational Services, Health Care & Social Assistance",Individual & family services,16146.93719,9377,0.411480738
+2015,"Educational Services, Health Care & Social Assistance","Community food & housing, & emergency services ",15094.92781,3560,0.156219625
+2015,"Educational Services, Health Care & Social Assistance",Vocational rehabilitation services,17997.77742,921,0.040415246
+2015,"Educational Services, Health Care & Social Assistance",Child day care services,16805.16011,20804,0.912919407
+2015,"Arts, Entertainment & Recreation and Accommodation & Food Services","Performing arts, spectator sports & related industries",12390.71618,3090,0.135595124
+2015,"Arts, Entertainment & Recreation and Accommodation & Food Services","Museums, art galleries, historical sites, & similar institutions",13151.90053,1498,0.065735112
+2015,"Arts, Entertainment & Recreation and Accommodation & Food Services",Bowling centers,13245.4484,4293,0.188385071
+2015,"Arts, Entertainment & Recreation and Accommodation & Food Services",Amusement & Recreation,20231.12729,46344,2.033663574
+2015,"Arts, Entertainment & Recreation and Accommodation & Food Services",Traveler accommodation,25141.92865,56371,2.473667558
+2015,"Arts, Entertainment & Recreation and Accommodation & Food Services",Recreational vehicle parks & camps and rooming & boarding houses,15386.63181,3672,0.1611344
+2015,"Arts, Entertainment & Recreation and Accommodation & Food Services","Drinking places, alcoholic beverages ",14891.97339,10674,0.468395585
+2015,"Arts, Entertainment & Recreation and Accommodation & Food Services",Restaurants & Food Services,15500.25841,1649932,72.40217953
+2015,"Other Services, Except Public Administration",Car washes,18771.33333,42,0.001843041
+2015,"Other Services, Except Public Administration",Commercial & industrial machinery & equipment repair & maintenance,12619.875,8,0.000351055
+2015,"Other Services, Except Public Administration",Personal & household goods repair & maintenance,17790.34091,44,0.001930804
+2015,"Other Services, Except Public Administration",Beauty salons,9172.51,100,0.004388192
+2015,"Other Services, Except Public Administration","Funeral homes, & cemeteries & crematories ",1435.296296,27,0.001184812
+2015,"Other Services, Except Public Administration",Drycleaning & laundry services,9288.2,15,0.000658229
+2015,"Other Services, Except Public Administration",Other personal services,10131.38889,72,0.003159498
+2015,"Other Services, Except Public Administration",Religious organizations,15982.86716,5450,0.239156449
+2015,"Other Services, Except Public Administration",Labor unions,76891.12121,33,0.001448103
+2015,"Other Services, Except Public Administration","Business, professional, political, & similar organizations",22001.53333,105,0.004607601
+2015,"Other Services, Except Public Administration","Civic, social, advocacy organizations, & grantmaking & giving services",15315.00781,4991,0.219014649
+2015,"Other Services, Except Public Administration",Private households,30029.52521,3471,0.152314135
+2015,Public Administration,Public finance activities,21827.55556,45,0.001974686
+2015,Public Administration,Other general government & support,17532.57778,45,0.001974686
+2015,Public Administration,Executive offices & legislative bodies,20720.02488,2371,0.104044026
+2015,Public Administration,Administration of human resource programs,24979.52406,1309,0.05744143
+2015,Public Administration,National security & international affairs,26682.37388,5919,0.259737068
+2015,Public Administration,Administration of environmental quality & housing programs,18269.48235,85,0.003729963
+2015,Public Administration,Administration of economic programs & space research,18101.52381,84,0.003686081
+2015,Public Administration,"Justice, public order, & safety activities ",30709.29575,5508,0.2417016
+2015,Active Duty Military,U. S. Army,29304.00146,2051,0.090001812
+2015,Active Duty Military,U. S. Air Force,16753.02301,478,0.020975556
+2015,Active Duty Military,U. S. Navy,32294.72602,3044,0.133576556
+2015,Active Duty Military,U. S. Marines,26852.23138,631,0.02768949
+2015,Active Duty Military,U. S Coast Guard,39551.08333,420,0.018430405
+2015,Active Duty Military,U. S. Armed Forces: Branch Not Specified,41984,51,0.002237978
+2015,Active Duty Military,Military Reserves or National Guard,20451.44828,29,0.001272576
+2014,"Agriculture, Forestry, Fishing and Hunting, and Mining",Farming,12808.98167,600,0.026855022
+2014,"Agriculture, Forestry, Fishing and Hunting, and Mining",Animal production & aquaculture,19867.08233,583,0.02609413
+2014,"Agriculture, Forestry, Fishing and Hunting, and Mining","Fishing, hunting & trapping",14996.06957,115,0.005147213
+2014,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for agriculture & forestry,16412,5,0.000223792
+2014,"Agriculture, Forestry, Fishing and Hunting, and Mining",Oil & gas extraction,44845.85841,113,0.005057696
+2014,"Agriculture, Forestry, Fishing and Hunting, and Mining",Coal mining,37499.55556,27,0.001208476
+2014,"Agriculture, Forestry, Fishing and Hunting, and Mining",Nonmetallic mineral mining & quarrying,28673,4,0.000179033
+2014,"Agriculture, Forestry, Fishing and Hunting, and Mining",Support activities for mining,44528.17172,495,0.022155393
+2014,Construction,Construction,16761.93681,364,0.016292047
+2014,Manufacturing,Sugar & confectionery products,25889.11876,421,0.018843274
+2014,Manufacturing,Fruit & vegetable preserving & specialty food manufacturing,28936.17525,816,0.03652283
+2014,Manufacturing,Dairy product manufacturing,35585.22593,270,0.01208476
+2014,Manufacturing,Animal slaughtering & processing,19083.06146,781,0.034956287
+2014,Manufacturing,Retail bakeries,16033.65596,2552,0.114223359
+2014,Manufacturing,"Bakeries & tortilla manufacturing, except retail bakeries",14974.30511,1819,0.081415474
+2014,Manufacturing,"Animal food, grain & oilseed milling",31343.93529,170,0.007608923
+2014,Manufacturing,"Seafood & other miscellaneous foods, n.e.c. ",26516.31709,1211,0.054202386
+2014,Manufacturing,"Not specified food industries, manufacturing",22840.7131,725,0.032449818
+2014,Manufacturing,Beverage manufacturing,24243.35476,420,0.018798515
+2014,Manufacturing,Tobacco manufacturing,48404.42105,19,0.000850409
+2014,Manufacturing,"Pulp, paper, & paperboard mills ",16786.82353,34,0.001521785
+2014,Manufacturing,Printing & related support activities,3125,4,0.000179033
+2014,Manufacturing,Petroleum refining,35841.29167,24,0.001074201
+2014,Manufacturing,Pharmaceutical & medicine manufacturing,23387.51724,203,0.009085949
+2014,Manufacturing,Industrial & miscellaneous chemicals,26724.06818,44,0.001969368
+2014,Manufacturing,Glass & glass product manufacturing,12101,2,8.95167E-05
+2014,Manufacturing,Iron & steel mills & steel product manufacturing,52518.6,5,0.000223792
+2014,Manufacturing,"Machine shops; turned product; screw, nut & bolt manufacturing  ",17849,3,0.000134275
+2014,Manufacturing,Ordnance,37499.52941,17,0.000760892
+2014,Manufacturing,"Structural metals, & boiler, tank, & shipping container manufacturing ",34626.61224,49,0.00219316
+2014,Manufacturing,Miscellaneous fabricated metal products manufacturing,12652.14286,84,0.003759703
+2014,Manufacturing,Agricultural implement manufacturing,10240.33333,3,0.000134275
+2014,Manufacturing,Commercial & service industry machinery manufacturing,9847.166667,6,0.00026855
+2014,Manufacturing,"Machinery manufacturing, n.e.c. or not specified",31022.58621,29,0.001297993
+2014,Manufacturing,Computer & peripheral equipment manufacturing,30624.63333,60,0.002685502
+2014,Manufacturing,"Navigational, measuring, electromedical, & control instruments manufacturing",17024.625,16,0.000716134
+2014,Manufacturing,"Electronic component & product manufacturing, n.e.c. ",21693.6055,109,0.004878662
+2014,Manufacturing,Household appliance manufacturing,11575.15584,77,0.003446394
+2014,Manufacturing,"Electric lighting & electrical equipment manufacturing, & other electrical component manufacturing, n.e.c.",17102.30303,99,0.004431079
+2014,Manufacturing,Aircraft & parts manufacturing,17875.80153,131,0.005863346
+2014,Manufacturing,Aerospace products & parts manufacturing,53563.02857,35,0.001566543
+2014,Manufacturing,Ship & boat building,43497.96947,131,0.005863346
+2014,Manufacturing,Other transportation equipment manufacturing,16412.04762,42,0.001879852
+2014,Manufacturing,Motor vehicles & motor vehicle equipment manufacturing,79049.72951,122,0.005460521
+2014,Manufacturing,Furniture & related product manufacturing,12119.61538,13,0.000581859
+2014,Manufacturing,Medical equipment & supplies manufacturing,11352.58333,36,0.001611301
+2014,Manufacturing,"Sporting & athletic goods, & doll, toy & game manufacturing  ",14470.08333,12,0.0005371
+2014,Manufacturing,"Miscellaneous manufacturing, n.e.c.  ",28965.75141,177,0.007922231
+2014,Manufacturing,Not specified manufacturing industries,14998.12553,470,0.021036434
+2014,Wholesale Trade,Motor vehicle & motor vehicle parts & supplies merchant wholesalers,13447.14286,112,0.005012937
+2014,Wholesale Trade,Furniture & home furnishing merchant wholesalers,26259.25,12,0.0005371
+2014,Wholesale Trade,Professional & commercial equipment & supplies merchant wholesalers,53774.38889,90,0.004028253
+2014,Wholesale Trade,"Machinery, equipment, & supplies merchant wholesalers     ",32252.62857,35,0.001566543
+2014,Wholesale Trade,Paper & paper products merchant wholesalers,5120.2,15,0.000671376
+2014,Wholesale Trade,Grocery & related product merchant wholesalers,21664.49109,2973,0.133066633
+2014,Wholesale Trade,Farm product raw material merchant wholesalers,4231.738636,88,0.003938737
+2014,Wholesale Trade,Petroleum & petroleum products merchant wholesalers,39166.25,8,0.000358067
+2014,Wholesale Trade,Miscellaneous nondurable goods merchant wholesalers,14570.57143,35,0.001566543
+2014,Wholesale Trade,Wholesale electronic markets & agents & brokers,10240.38462,13,0.000581859
+2014,Wholesale Trade,Not specified wholesale trade,8873.584507,142,0.006355688
+2014,Retail Trade,Car Dealers,12762.63393,112,0.005012937
+2014,Retail Trade,Other motor vehicle dealers,11790.5,8,0.000358067
+2014,Retail Trade,Furniture & home furnishings stores,25675.87442,430,0.019246099
+2014,Retail Trade,Household appliance stores,21176.29348,92,0.00411777
+2014,Retail Trade,Electronics stores,32630.41667,36,0.001611301
+2014,Retail Trade,Building material & supplies dealers,15727.97015,67,0.002998811
+2014,Retail Trade,Lawn & garden equipment & supplies stores,5860.647619,105,0.004699629
+2014,Retail Trade,Grocery Stores,16414.29534,54489,2.438838807
+2014,Retail Trade,Specialty food stores,17331.86758,7771,0.347817291
+2014,Retail Trade,"Beer, wine, & liquor stores ",14921.42222,180,0.008056507
+2014,Retail Trade,Pharmacies & drug stores,12722.73057,193,0.008638365
+2014,Retail Trade,Gasoline stations,13255.89789,12869,0.57599546
+2014,Retail Trade,Clothing stores,23081.05634,284,0.012711377
+2014,Retail Trade,"Sporting goods, and hobby & toy stores ",13759.96649,388,0.017366247
+2014,Retail Trade,Book stores & news dealers,10962.09278,97,0.004341562
+2014,Retail Trade,Department stores & discount stores,15757.36367,5879,0.263134455
+2014,Retail Trade,Miscellaneous general merchandise stores,17529.21901,3703,0.165740243
+2014,Retail Trade,Retail florists,10240.35,20,0.000895167
+2014,Retail Trade,"Gift, novelty, & souvenir shops",15619.62687,67,0.002998811
+2014,Retail Trade,Used merchandise stores,13475.23715,253,0.011323868
+2014,Retail Trade,Miscellaneous retail stores,7635.592683,410,0.018350932
+2014,Retail Trade,Electronic shopping,35416.25,24,0.001074201
+2014,Retail Trade,Mail-order houses,11939.85821,134,0.005997622
+2014,Retail Trade,Vending machine operators,13986.12617,214,0.009578291
+2014,Retail Trade,Other direct selling establishments,28795.83495,103,0.004610112
+2014,Retail Trade,Not specified retail trade,15030.81104,1540,0.068927889
+2014,"Transportation & Warehousing, and Utilities","Electric power generation, transmission & distribution",25857.48515,202,0.009041191
+2014,"Transportation & Warehousing, and Utilities","Electric & gas, and other combinations",28749.66667,27,0.001208476
+2014,"Transportation & Warehousing, and Utilities",Air transportation,26203.99505,404,0.018082381
+2014,"Transportation & Warehousing, and Utilities",Rail transportation,52551.88115,244,0.010921042
+2014,"Transportation & Warehousing, and Utilities",Water transportation,35308.51307,727,0.032539335
+2014,"Transportation & Warehousing, and Utilities",Truck transportation,14336.51667,60,0.002685502
+2014,"Transportation & Warehousing, and Utilities",Bus service & urban transit,15065.83133,83,0.003714945
+2014,"Transportation & Warehousing, and Utilities",Scenic & sightseeing transportation,11745.26923,52,0.002327435
+2014,"Transportation & Warehousing, and Utilities",Services incidental to transportation,20314.05957,940,0.042072868
+2014,"Transportation & Warehousing, and Utilities",Couriers & messengers,9216.341176,85,0.003804461
+2014,"Transportation & Warehousing, and Utilities",Warehousing & storage,18822.10127,79,0.003535911
+2014,Information,Newspaper publishers,34299.6,10,0.000447584
+2014,Information,"Periodical, book, & directory publishers",34836.20455,44,0.001969368
+2014,Information,Motion pictures & video industries,18302.26259,1588,0.071076291
+2014,Information,Sound recording industries,13129.63889,36,0.001611301
+2014,Information,Broadcasting (except internet),61442.21875,32,0.001432268
+2014,Information,Wired telecommunications carriers (Legacy),10941.36585,41,0.001835093
+2014,Information,"Telecommunications, except wired telecommunications carriers ",18535.01333,150,0.006713755
+2014,Information,"Internet publishing, broadcasting & web search portals",42050.28125,64,0.002864536
+2014,Information,"Other information services, except libraries & archives, & internet publishing & broadcasting & web search portals",5104.105263,19,0.000850409
+2014,"Finance & Insurance, and Real Estate, Rental & Leasing","Savings institutions, including credit unions ",3025.275862,29,0.001297993
+2014,"Finance & Insurance, and Real Estate, Rental & Leasing",Insurance carriers & related activities,23435.37972,424,0.018977549
+2014,"Finance & Insurance, and Real Estate, Rental & Leasing",Banking & related activities,31001.89655,58,0.002595985
+2014,"Finance & Insurance, and Real Estate, Rental & Leasing","Securities, commodities, funds, trusts & other financial investments",11499.1049,143,0.006400447
+2014,"Finance & Insurance, and Real Estate, Rental & Leasing",Real estate,22825.70598,4299,0.192416231
+2014,"Finance & Insurance, and Real Estate, Rental & Leasing","Commercial, industrial & other intangible assets rental & leasing",6050.566667,30,0.001342751
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Legal services,16367.77778,117,0.005236729
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services","Accounting, tax preparation, bookkeeping & payroll services",19293.5,22,0.000984684
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services","Architectural, engineering & related services",13952.73333,105,0.004699629
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Specialized design services,25635.19626,107,0.004789146
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Computer Systems Design,30817.37654,162,0.007250856
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services","Management, scientific & technical consulting services",43786.20513,117,0.005236729
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Scientific research & development services,20154.98883,358,0.016023496
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services","Advertising, public relations & related services",16061.78846,52,0.002327435
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services","Other professional, scientific & technical services ",19715.5,34,0.001521785
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Management of companies & enterprises,32944.01258,159,0.007116581
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Employment services,14216.88409,1993,0.089203431
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Business support services,26463.47368,228,0.010204908
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Travel arrangements & reservation services,24189.60205,1950,0.087278821
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Investigation & security services,16605.29412,187,0.008369815
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Services to buildings & dwellings (except cleaning during construction & immediately after construction),1851.313725,51,0.002282677
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Other administrative & other support services,21098.01282,78,0.003491153
+2014,"Professional, Scientific & Management, and Administrative & Waste Management Services",Waste management & remediation services,18060.72727,55,0.00246171
+2014,"Educational Services, Health Care & Social Assistance",Elementary & secondary schools,14794.98157,145364,6.506255654
+2014,"Educational Services, Health Care & Social Assistance","Colleges, universities & professional schools, including junior colleges",16036.65717,23878,1.068740352
+2014,"Educational Services, Health Care & Social Assistance","Business, technical & trade schools and training",12757.69126,366,0.016381563
+2014,"Educational Services, Health Care & Social Assistance",Other schools & instruction and educational support services,19301.12659,1098,0.04914469
+2014,"Educational Services, Health Care & Social Assistance",Offices of physicians,15345.80874,183,0.008190782
+2014,"Educational Services, Health Care & Social Assistance",Offices of dentists,12083.64706,17,0.000760892
+2014,"Educational Services, Health Care & Social Assistance",Offices of optometrists,32769.16667,6,0.00026855
+2014,"Educational Services, Health Care & Social Assistance",Offices of other health practitioners,14290.70876,388,0.017366247
+2014,"Educational Services, Health Care & Social Assistance",Outpatient care centers,19094.80838,1743,0.078013838
+2014,"Educational Services, Health Care & Social Assistance",Home health care services,17069.93298,1716,0.076805362
+2014,"Educational Services, Health Care & Social Assistance",Other health care services,23873.21542,3709,0.166008793
+2014,"Educational Services, Health Care & Social Assistance",Hospitals,25073.18141,39877,1.784829509
+2014,"Educational Services, Health Care & Social Assistance",Nursing Care Facilities,19896.46405,55061,2.464440594
+2014,"Educational Services, Health Care & Social Assistance","Residential care facilities, except skilled nursing facilities",19829.69218,33737,1.510013119
+2014,"Educational Services, Health Care & Social Assistance",Individual & family services,16583.00994,9257,0.414328228
+2014,"Educational Services, Health Care & Social Assistance","Community food & housing, & emergency services ",15585.04357,4223,0.189014595
+2014,"Educational Services, Health Care & Social Assistance",Vocational rehabilitation services,15339.67049,1047,0.046862013
+2014,"Educational Services, Health Care & Social Assistance",Child day care services,16544.95127,20624,0.923096617
+2014,"Arts, Entertainment & Recreation and Accommodation & Food Services","Performing arts, spectator sports & related industries",11708.12372,2829,0.126621428
+2014,"Arts, Entertainment & Recreation and Accommodation & Food Services","Museums, art galleries, historical sites, & similar institutions",12753.20965,1617,0.072374284
+2014,"Arts, Entertainment & Recreation and Accommodation & Food Services",Bowling centers,13563.16663,4771,0.213542182
+2014,"Arts, Entertainment & Recreation and Accommodation & Food Services",Amusement & Recreation,19760.35177,46039,2.060630583
+2014,"Arts, Entertainment & Recreation and Accommodation & Food Services",Traveler accommodation,25397.9268,52869,2.366330248
+2014,"Arts, Entertainment & Recreation and Accommodation & Food Services",Recreational vehicle parks & camps and rooming & boarding houses,14395.57276,3766,0.16856002
+2014,"Arts, Entertainment & Recreation and Accommodation & Food Services","Drinking places, alcoholic beverages ",15538.73228,10847,0.485494036
+2014,"Arts, Entertainment & Recreation and Accommodation & Food Services",Restaurants & Food Services,15518.92987,1609751,72.04983039
+2014,"Other Services, Except Public Administration",Car washes,11991.65789,76,0.003401636
+2014,"Other Services, Except Public Administration",Commercial & industrial machinery & equipment repair & maintenance,12605.375,8,0.000358067
+2014,"Other Services, Except Public Administration",Personal & household goods repair & maintenance,12705.29032,93,0.004162528
+2014,"Other Services, Except Public Administration",Beauty salons,10367.11111,108,0.004833904
+2014,"Other Services, Except Public Administration",Nail salons & other personal care services,8753.1,20,0.000895167
+2014,"Other Services, Except Public Administration","Funeral homes, & cemeteries & crematories ",1433.636364,22,0.000984684
+2014,"Other Services, Except Public Administration",Drycleaning & laundry services,17620.23077,26,0.001163718
+2014,"Other Services, Except Public Administration",Other personal services,22117.8018,111,0.004968179
+2014,"Other Services, Except Public Administration",Religious organizations,15525.96142,5884,0.263358247
+2014,"Other Services, Except Public Administration",Labor unions,76802.77419,31,0.001387509
+2014,"Other Services, Except Public Administration","Business, professional, political, & similar organizations",22143.09174,109,0.004878662
+2014,"Other Services, Except Public Administration","Civic, social, advocacy organizations, & grantmaking & giving services",14488.81946,5118,0.229073336
+2014,"Other Services, Except Public Administration",Private households,31440.89248,3469,0.155266785
+2014,Public Administration,Other general government & support,20012.73529,34,0.001521785
+2014,Public Administration,Executive offices & legislative bodies,21830.85702,2371,0.106122095
+2014,Public Administration,Administration of human resource programs,24001.76758,1308,0.058543948
+2014,Public Administration,National security & international affairs,28409.00208,6241,0.279336985
+2014,Public Administration,Administration of environmental quality & housing programs,15346.68471,314,0.014054128
+2014,Public Administration,Administration of economic programs & space research,16344.03571,84,0.003759703
+2014,Public Administration,"Justice, public order, & safety activities ",29215.0353,5581,0.249796461
+2014,Active Duty Military,U. S. Army,28434.42489,1977,0.088487297
+2014,Active Duty Military,U. S. Air Force,17963.22301,565,0.025288479
+2014,Active Duty Military,U. S. Navy,35420.3091,2407,0.107733396
+2014,Active Duty Military,U. S. Marines,27424.24803,762,0.034105878
+2014,Active Duty Military,U. S Coast Guard,41191.49015,406,0.018171898
+2014,Active Duty Military,U. S. Armed Forces: Branch Not Specified,28891.0708,113,0.005057696
+2014,Active Duty Military,Military Reserves or National Guard,20825.26667,15,0.000671376
